@@ -1,12 +1,4 @@
-# Projeto didático-prático <br>Engenharia de Software (IF977) <br>Sistemas de Informação <br>CIn - Centro de Informática <br>UFPE - Universidade Federal de Pernambuco
-
-# Equipe:
-Carolina Melo<br>
-Gustavo Lopes<br>
-José Guilherme<br>
-José Wilson
-
-## Projeto didático-prático da disciplina (IF977) Engenharia de Software, do curso de graduação em Sistemas de Informação do Centro de Informática (CIn) da Universidade Federal de Pernambuco (UFPE)
+### Projeto didático-prático da disciplina (IF977) Engenharia de Software, do curso de graduação em Sistemas de Informação do Centro de Informática (CIn) da Universidade Federal de Pernambuco (UFPE)
 
 # VivaRecife
 
