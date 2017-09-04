@@ -2,7 +2,7 @@
 
 # VivaRecife
 
-##Equipe
+## Equipe
 - Gustavo Bernardo Lopes: Gerente do Projeto e Desenvolvedor
 - Carolina Maria de Paiva Melo: Desenvolvedora
 - José Guilherme Nascimento Vieira da Silva: Desenvolvedor
