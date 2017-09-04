@@ -15,4 +15,4 @@ Oferecer um sistema capaz de entregar informações relacionadas a diferentes ca
 Pessoas que pretendem se mudar para a cidade de Recife,ou entre bairros do Recife, não conseguem encontrar com facilidade informações relacionadas aos bairros da cidade para decidir qual seria o melhor de acordo com suas necessidades, pois a maioria dos dados estão espalhados em diferentes lugares, tornando a sua consulta mais demorada e desencorajadora. O VivaRecife surge com o intuito de suprir essa demanda.
 
 ## Descrição do produto
-Descrição
+Uma aplicação SaaS que possa ajudar o usuário a fazer a melhor escolha do bairro aonde morar, com base em dados relevantes reais, sem necessidade de esforço e perda de tempo em extensas pesquisas sobre as localidades.
