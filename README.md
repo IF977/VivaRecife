@@ -12,7 +12,7 @@
 Oferecer um sistema capaz de entregar informações relacionadas a diferentes características a respeito de um determinado bairro, facilitando a vida das pessoas que desejam se mudar e que buscam um conhecimento prévio a respeito da região de sua futura moradia.
 
 ## Justificativa
-Por que?
+Pessoas que pretendem se mudar para a cidade de Recife,ou entre bairros do Recife, não conseguem encontrar com facilidade informações relacionadas aos bairros da cidade para decidir qual seria o melhor de acordo com suas necessidades, pois a maioria dos dados estão espalhados em diferentes lugares, tornando a sua consulta mais demorada e desencorajadora. O VivaRecife surge com o intuito de suprir essa demanda.
 
 ## Descrição do produto
 Descrição
