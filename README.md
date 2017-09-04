@@ -9,7 +9,7 @@
 - José Wilson Madruga Rezende Filho: Desenvolvedor
 
 ## Objetivo
-Criar uma aplicação SaaS que possa ajudar o usuário a fazer a melhor escolha do bairro aonde morar, com base em dados relevantes reais, sem necessidade de esforço e perda de tempo em extensas pesquisas sobre as localidades.
+Oferecer um sistema capaz de entregar informações relacionadas a diferentes características a respeito de um determinado bairro, facilitando a vida das pessoas que desejam se mudar e que buscam um conhecimento prévio a respeito da região de sua futura moradia.
 
 ## Justificativa
 Por que?
