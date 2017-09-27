@@ -49,5 +49,5 @@ Para que eu possa saber sobre a origem do projeto
 ```
 Como um visitante
 Eu quero fazer uma rápida busca no site
-Para que eu possa ter uma informação rápida sobre determinado bairro
+Para que eu possa ter uma informação relevante sobre determinado bairro
 ```
