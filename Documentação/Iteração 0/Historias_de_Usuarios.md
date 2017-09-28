@@ -19,14 +19,6 @@ Para que eu possa saber das possibilidades de eventos e locais próximos
 ```
 
 ```
-Avaliação
-
-Como um usuário
-Eu quero pesquisar sobre determinado estabelecimento e/ou evento 
-Para que eu possa avaliá-lo
-```
-
-```
 Complementar Informações
 
 Como um usuário
@@ -43,7 +35,7 @@ Para que eu possar adicionar estabelecimentos e/ou eventos não existentes a um 
 ```
 
 ```
-Avaliação Colaborativa
+Avaliação
 
 Como um usuário
 Eu quero poder avaliar um estabelecimento e/ou evento
