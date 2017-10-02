@@ -27,3 +27,26 @@ html, body {
 		min-height: 250px;
 	}
 }
+
+.searchBar {
+	width: 100%;
+	box-sizing: border-box;
+	border: 2px solid #ccc;
+	border-radius: 4px;
+	font-size: 16px;
+	background-color: white;
+	background-image: url('imgs/search.png');
+	background-size: 3%;
+	background-position: 10px 10px;
+	background-repeat: no-repeat;
+	padding: 12px 500px 12px 50px;
+}
+
+.bairrosList {
+	font-size: 150%;
+}
+
+.bairrosList li {
+	list-style-type: none;
+}
+
