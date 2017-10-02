@@ -6,10 +6,24 @@ html, body {
 
 #header {
 	z-index: 1;
-  	height: 90px;
+  	height: 75px;
 }
 
 #content {
 	margin-left: 20px;
 	margin-right: 20px;
+}
+
+.contatoPage {
+	text-align: center;
+}
+
+.contactForm {
+	.oneLineInput {
+		width: 450px;
+	}
+	.textEditor {
+		width: 450px;
+		min-height: 250px;
+	}
 }
