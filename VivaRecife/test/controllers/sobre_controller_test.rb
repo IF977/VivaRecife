@@ -1,6 +1,6 @@
 require 'test_helper'
 
-class SobreControllerTest < ActionDispatch::IntegrationTest
+class SobreControllerTest < ActionController::TestCase
   # test "the truth" do
   #   assert true
   # end
