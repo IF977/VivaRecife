@@ -1,4 +1,8 @@
 Rails.application.routes.draw do
+  get 'bairros/index'
+
+  get 'buscar/index'
+
   get 'contato/index'
 
   get 'sobre/index'
