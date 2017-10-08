@@ -1,24 +1,18 @@
+### Projeto didático-prático da disciplina (IF977) Engenharia de Software, do curso de graduação em Sistemas de Informação do Centro de Informática (CIn) da Universidade Federal de Pernambuco (UFPE)
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+# VivaRecife
 
+## Equipe
+- Gustavo Bernardo Lopes: Gerente do Projeto e Desenvolvedor
+- Carolina Maria de Paiva Melo: Desenvolvedora e Product Owner
+- José Guilherme Nascimento Vieira da Silva: Desenvolvedor
+- José Wilson Madruga Rezende Filho: Desenvolvedor
 
-Welcome to your Rails project on Cloud9 IDE!
+## Objetivo
+Oferecer um sistema capaz de entregar informações relacionadas a diferentes características a respeito de um determinado bairro, facilitando a vida das pessoas que desejam se mudar e que buscam um conhecimento prévio a respeito da região de sua futura moradia.
 
-To get started, just do the following:
+## Justificativa
+Pessoas que pretendem se mudar para a cidade de Recife,ou entre bairros do Recife, não conseguem encontrar com facilidade informações relacionadas aos bairros da cidade para decidir qual seria o melhor de acordo com suas necessidades, pois a maioria dos dados estão espalhados em diferentes lugares, tornando a sua consulta mais demorada e desencorajadora. O VivaRecife surge com o intuito de suprir essa demanda.
 
-1. Run the project with the "Run Project" button in the menu bar on top of the IDE.
-2. Preview your new app by clicking on the URL that appears in the Run panel below (https://HOSTNAME/).
-
-Happy coding!
-The Cloud9 IDE team
-
-
-## Support & Documentation
-
-Visit http://docs.c9.io for support, or to learn more about using Cloud9 IDE. 
-To watch some training videos, visit http://www.youtube.com/user/c9ide
+## Descrição do produto
+Uma aplicação SaaS que possa ajudar o usuário a fazer a melhor escolha do bairro aonde morar, com base em dados relevantes reais, sem necessidade de esforço e perda de tempo em extensas pesquisas sobre as localidades.

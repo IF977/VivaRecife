@@ -1,0 +1,52 @@
+html, body {
+  font-family: 'Roboto', 'Helvetica', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+#header {
+	z-index: 1;
+  	height: 75px;
+}
+
+#content {
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+.contatoPage {
+	text-align: center;
+}
+
+.contactForm {
+	.oneLineInput {
+		width: 450px;
+	}
+	.textEditor {
+		width: 450px;
+		min-height: 250px;
+	}
+}
+
+.searchBar {
+	width: 100%;
+	box-sizing: border-box;
+	border: 2px solid #ccc;
+	border-radius: 4px;
+	font-size: 16px;
+	background-color: white;
+	background-image: url('imgs/search.png');
+	background-size: 3%;
+	background-position: 10px 10px;
+	background-repeat: no-repeat;
+	padding: 12px 500px 12px 50px;
+}
+
+.bairrosList {
+	font-size: 150%;
+}
+
+.bairrosList li {
+	list-style-type: none;
+}
+
