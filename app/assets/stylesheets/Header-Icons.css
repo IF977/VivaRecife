@@ -7,6 +7,10 @@
     margin-bottom: 0px;
 }
 
+.navbar {
+    margin-bottom: 0px !important;
+}
+
 #colorful-nav {
     background-color: transparent;
 }
@@ -60,7 +64,7 @@
     border-color: black;
     margin-left: 25px;
     margin-top: 25px;
-    /*margin-bottom: 20px;*/
+    margin-bottom: 20px;
 }
 
 #colorful-nav .navbar-brand {
