@@ -3,9 +3,9 @@
 # VivaRecife
 
 ## Equipe
+- José Wilson Madruga Rezende Filho: Scrum Master
 - Carolina Maria de Paiva Melo: Desenvolvedora e Product Owner
 - José Guilherme Nascimento Vieira da Silva: Desenvolvedor
-- José Wilson Madruga Rezende Filho: Desenvolvedor
 
 ## Objetivo
 Oferecer um sistema capaz de entregar informações relacionadas a diferentes características a respeito de um determinado bairro, facilitando a vida das pessoas que desejam se mudar e que buscam um conhecimento prévio a respeito da região de sua futura moradia.
