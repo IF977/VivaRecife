@@ -8,7 +8,7 @@ Início da Iteração | Término da iteração
 
 
 ### O que estava planejado
-| Terminar trilha do rails | @gbl3 @jgnvs @jwmrf @caroolpmelo |
+| Terminar trilha do rails | @gbl3 @jgnvs @jwmrf @caroolpmelo
 | Aprofundamento de conhecimentos | @gbl3 @jgnvs @jwmrf @caroolpmelo |
 | Criação de testes | @gbl3 @caroolpmelo |
 | Criação de issues | @gbl3 @jgnvs @jwmrf @caroolpmelo |
