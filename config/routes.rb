@@ -4,6 +4,7 @@ Rails.application.routes.draw do
   get 'buscar/index'
 
   get 'contato/index'
+  post 'contato/recebendo_mensagem_usuario'
 
   get 'sobre/index'
 
