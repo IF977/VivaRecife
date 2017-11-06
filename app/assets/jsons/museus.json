@@ -1,0 +1,222 @@
+[
+  {
+    "nome": "Museu do Homem do Nordeste",
+    "descricao": "são cerca de 15 mil peças no acervo retratando a formação do povo nordestino considerado um dos mais importantes museus antropológicos brasileiros.",
+    "bairro": "Casa Forte",
+    "logradouro": "Av. Dezessete de Agosto 2187",
+    "latitude": -8.030196,
+    "longitude": -34.925281,
+    "telefone": "(81) 3073-6340",
+    "site": "http://www.fundaj.gov.br/"
+  },
+  {
+    "nome": "Museu Murilo La Greca",
+    "descricao": "no Parnamirim os amantes da arte contemporânea conhecerão o acervo de 14 mil desenhos de Murilo La Greca em técnicas diversas. No local também são guardadas 160 pinturas e cartas trocadas pelo artista com Portinari e Giacometti.",
+    "bairro": "Parnamirim",
+    "logradouro": "R. Leonardo Bezerra Cavalcante 366",
+    "latitude": -8.037325,
+    "longitude": -34.909832,
+    "telefone": "(81)3355-3126",
+    "site": "http://museumurillolagreca.com.br/"
+  },
+  {
+    "nome": "Museu da Cidade do Recife",
+    "descricao": "fica dentro do Forte das Cinco Pontas construção holandesa de 1630. No local o visitante pode desfrutar de um extenso acervo de documentos iconográficos sobre o Recife além de 150 mil imagens de antigas residências e peças religiosas.",
+    "bairro": "São José",
+    "logradouro": "Praça das cinco pontas",
+    "latitude": -8.071313,
+    "longitude": -34.880809,
+    "telefone": "(81)-33552812",
+    "site": "http://www.recife.pe.gov.br/cultura/museucidade.php"
+  },
+  {
+    "nome": "Museu Militar",
+    "descricao": "está no Forte do Brum no Bairro do Recife. O forte foi construído no século XVI para segurança e proteção da povoação do Recife além de ter sido cenário de inúmeros acontecimentos históricos.",
+    "bairro": "Recife",
+    "logradouro": "Av. Militar s/n",
+    "latitude": -8.052803,
+    "longitude": -34.871412,
+    "telefone": "(81) 3224-4620",
+    "site": ""
+  },
+  {
+    "nome": "Museu de Arte Moderna Aloísio Magalhães (Mamam)",
+    "descricao": "integra o circuito de museus de arte moderna do Brasil e tem seu forte nas exposições temporárias.",
+    "bairro": "Boa Vista",
+    "logradouro": "Rua da Aurora 265",
+    "latitude": -8.061285,
+    "longitude": -34.881394,
+    "telefone": "(81) 3355-6870",
+    "site": "http://www.mamam.art.br/"
+  },
+  {
+    "nome": "Museu Franciscano de Arte Sacra",
+    "descricao": "no bairro de Santo Antônio os visitantes podem observar valiosas peças do catolicismo no Recife e desfrutar da beleza da Capela Dourada datada de 1696 um dos melhores exemplos da arte sacra e do estilo barroco brasileiro.",
+    "bairro": "Santo Antônio",
+    "logradouro": "R. Imperador Dom Pedro II 57",
+    "latitude": -8.062427,
+    "longitude": -34.877231,
+    "telefone": "(81) 3224-0530",
+    "site": "http://www.capeladourada.com.br/noticias/museu-franciscano-de-arte-sacra/"
+  },
+  {
+    "nome": "Casa-Museu Magdalena e Gilberto Freyre",
+    "descricao": "no bairro de Apipucos onde o escritor viveu por mais de 40 anos totalmente conservada com objetos móveis e livros exatamente na mesma posição como eram no tempo de Gilberto Freyre.",
+    "bairro": "Apipucos",
+    "logradouro": "Rua Jorge Tasso Neto",
+    "latitude": -8.020598,
+    "longitude": -34.938482,
+    "telefone": "(81) 3441-2883",
+    "site": "http://www.fgf.org.br/index.html"
+  },
+  {
+    "nome": "Oficina Brennand",
+    "descricao": "na Várzea reunindo as obras do artista plástico Francisco Brennand conhecido em várias partes do mundo e considerado um dos expoentes das artes plásticas contemporâneas. O espaço abriga mais de 2 mil esculturas além de painéis murais quadros e desenhos do artista. Outros dois pontos para conferir suas obras é no Parque das Esculturas de Francisco Brennand no molhe do Porto do Recife e o Pátio das Esculturas do Shopping Recife que reúne peças de vários artistas consagrados.",
+    "bairro": "Várzea",
+    "logradouro": "Propriedade Santos Cosme e Damião s/n",
+    "latitude": -8.052569,
+    "longitude": -34.974795,
+    "telefone": "(81)3271-2466",
+    "site": "http://www.brennand.com.br"
+  },
+  {
+    "nome": "Instituto Ricardo Brennand (IRB)",
+    "descricao": "também na Várzea é um castelo medieval que guarda uma fabulosa coleção de armas brancas telas do Brasil Colonial obras de arte de diversas épocas e procedências e a maior coleção privada do pintor holandês Frans Post. Destaque para a escultura de Botero e uma réplica de O pensador de Rodin.",
+    "bairro": "Várzea",
+    "logradouro": "Alameda Antônio Brennand s/n",
+    "latitude": -8.065768,
+    "longitude": -34.964301,
+    "telefone": "(81)2121-0352/2121-0365",
+    "site": "http://www.institutoricardobrennand.org.br/"
+  },
+  {
+    "nome": "Museu do Estado de Pernambuco",
+    "descricao": "Palacete do século XIX no bairro das Graças que possui um acervo de mais de 14 mil obras sobre arqueologia cultura indígena período de ocupação holandesa em Pernambuco arte sacra cultura afro-brasileira entre outras temáticas da história do estado. Recebe também exposições temporárias.",
+    "bairro": "Graças",
+    "logradouro": "Av. Rui Barbosa 960",
+    "latitude": "",
+    "longitude": -34.901995,
+    "telefone": "(81) 3184.3174",
+    "site": "http://hotsites.pernambuco.com/turismo/2012/visite_museu_do_estado/"
+  },
+  {
+    "nome": "Museu da Abolição",
+    "descricao": "No bairro da Madalena o museu discute temas sobre escravidão e abolição visando preservar a memória do povo negro e influência na formação da cultura brasileira. Possui sala memorial miniauditório e sala para exposições temporárias.",
+    "bairro": "Madalena",
+    "logradouro": "R. Benfica 1150",
+    "latitude": -8.0571555,
+    "longitude": -34.9090307,
+    "telefone": "(81) 3228-3248",
+    "site": "http://museudaabolicao.museus.gov.br/"
+  },
+  {
+    "nome": "Instituto Arqueológico Histórico e Geográfico de Pernambuco",
+    "descricao": "Centro de referência para pesquisadores de diversas áreas possui em seu acervo documentos e itens raros que representam a história do estado.",
+    "bairro": "Boa Vista",
+    "logradouro": "Rua do Hospício 130",
+    "latitude": -8.0617337,
+    "longitude": -34.8843858,
+    "telefone": "(81) 3222-4952",
+    "site": "http://www.iahgp.com.br/"
+  },
+  {
+    "nome": "Museu de Arte Popular",
+    "descricao": "A casa 49 do Pátio de São Pedro abriga o MAP sua coleção retrata os estados do nordeste brasileiro através de obras em madeira gesso e cerâmica (barro).",
+    "bairro": "São José",
+    "logradouro": "Pátio de São Pedro 49",
+    "latitude": -8.0673105,
+    "longitude": -34.8790074,
+    "telefone": "(81) 3355-3110",
+    "site": "https://museudeartepopular.wordpress.com/"
+  },
+  {
+    "nome": "Cais do Sertão",
+    "descricao": "Com experiências sensoriais e arquitetura inovadora o Cais do Sertão apresenta a cultura do homem sertanejo em um ambiente tecnológico e interativo. Objetos do cotidiano discos instrumentos musicais estão presentes em seu acervo. O visitante tem a oportunidade de tocar alguns instrumentos cantar em cabines de karaokê  além de contemplar uma réplica do Rio São Francisco e a arte da xilogravura.",
+    "bairro": "Recife",
+    "logradouro": "Av. Alfredo Lisboa S/N",
+    "latitude": -8.0631633,
+    "longitude": -34.8711337,
+    "telefone": "(81) 3089-2974",
+    "site": "www.caisdosertao.com.br"
+  },
+  {
+    "nome": "Casa do Carnaval",
+    "descricao": "Espaço destinado a pesquisas sobre as manifestações da cultura popular com acervo de livros periódicos teses cartas partituras fotografias notas de jornal entre outros documentos.",
+    "bairro": "São José",
+    "logradouro": "Pátio de São Pedro Nº 38",
+    "latitude": -8.0667877,
+    "longitude": -34.8790547,
+    "telefone": "(81) 3355-4311 | 3355-4331",
+    "site": "http://casadocarnaval.blogspot.com.br/"
+  },
+  {
+    "nome": "Observatório Cultural Torre Malakoff",
+    "descricao": "Observatório astronômico do século XIX funciona também como centro cultural abrigando exposições temporárias",
+    "bairro": "Recife",
+    "logradouro": "Praça do Arsenal S/N",
+    "latitude": -8.0631633,
+    "longitude": -34.8711337,
+    "telefone": "(81) 3184-3180",
+    "site": "https://www.facebook.com/TorreMalakoffOnline/"
+  },
+  {
+    "nome": "Sinagoga Kahal Zur Israel",
+    "descricao": "Primeira singagoga das Américas funciona atualmente o Centro Judaico de Pernambuco. Escavações arqueológicas exposição de itens e documentos proporcionam o contado do visitante com a história do judeus no Recife.",
+    "bairro": "Recife",
+    "logradouro": "Rua do Bom Jesus 197",
+    "latitude": -8.0618594,
+    "longitude": -34.8713172,
+    "telefone": "(81) 3224-8351",
+    "site": "http://www.kahalzurisrael.com/"
+  },
+  {
+    "nome": "Paço do Frevo",
+    "descricao": "Espaço cultural no bairro do Recife conta através de seu ambiente toda a história da dança e ritmo Frevo. Dedicado à formação e pesquisa possui escola de dança e música além de um centro de documentação.",
+    "bairro": "Recife",
+    "logradouro": "Praça do Arsenal da Marinha S/N",
+    "latitude": -8.0613183,
+    "longitude": -34.8716376,
+    "telefone": "(81) 3355-9500",
+    "site": "http://www.pacodofrevo.org.br/"
+  },
+  {
+    "nome": "Memorial Chico Science",
+    "descricao": "Buscando resgatar a obra do artista Chico Science o Memorial localizado no Pátio de São Pedro abriga exposições espaço para pesquisa e alguns eventos como a Semana Chico Science no mês de março que proporciona um momento de reflexão sobre o movimento Manguebeat.",
+    "bairro": "São José",
+    "logradouro": "Pátio de São Pedro casa 21",
+    "latitude": -8.0671216,
+    "longitude": -34.8788421,
+    "telefone": "(81) 3355.3158 | 3355.3159",
+    "site": "http://www.recife.pe.gov.br/chicoscience/#"
+  },
+  {
+    "nome": "Memorial Luiz Gonzaga",
+    "descricao": "Com o objetivo preservar e difundir a obra de Luiz Gonzaga o Memorial também localizado no Pátio de São Pedro possui três núcleos operacionais: Núcleo Educativo dedicado à mediação e educação patrimonial Núcleo de Pesquisa proporcionando o acesso a documentos Núcleo de Música o qual trabalha na edição de partituras. Abriga exposição permanente.",
+    "bairro": "São José",
+    "logradouro": "Pátio de São Pedro Casa 35",
+    "latitude": -8.0672249,
+    "longitude": -34.8789283,
+    "telefone": "(81) 3355.3155",
+    "site": "http://memorialluizgonzaga.blogspot.com.br/"
+  },
+  {
+    "nome": "Museu do Trem",
+    "descricao": "Contando a história do trem em Pernambuco a Estação Central Capiba possui acervo com peças colhidas nas antigas estações de trens do estado além de um pátio expondo duas locomotivas do tipo Maria-fumaça e outra movida a óleo diesel.",
+    "bairro": "São José",
+    "logradouro": "R. Floriano Peixoto s/n",
+    "latitude": -8.0680447,
+    "longitude": -34.8834433,
+    "telefone": "(81) 3184-3197",
+    "site": "https://www.facebook.com/museudotrempe/"
+  },
+  {
+    "nome": "Museu de Artes Afro-Brasil Rolando Toro",
+    "descricao": "Na rua Mariz e Barros do bairro do Recife o espaço cultural abriga obras sob a perspectiva de um museu dinâmico promovendo estéticas entre as diversas linguagens artísticas afro-brasileiras em um só ambiente. Algumas peças do acervo ainda estão sendo catalogadas pelo museu junto à UFPE.",
+    "bairro": "Recife",
+    "logradouro": "Rua Mariz e Barros 328",
+    "latitude": -8.0628495,
+    "longitude": -34.873079,
+    "telefone": "(81) 9970-8970",
+    "site": "https://www.facebook.com/museuafrobrasilrolandotoro/"
+  }
+]

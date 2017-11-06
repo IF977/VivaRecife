@@ -1,0 +1,155 @@
+[
+  {
+    "Nome": "Feira Dom Vital",
+    "Localização": "Praça Dom Vital",
+    "Dias": "Quinta a sábado",
+    "Horário": "6h às 18h",
+    "Observação": "",
+    "Latitude": -8.06785,
+    "Longitude": -34.878208
+  },
+  {
+    "Nome": "Feira Água Fria",
+    "Localização": "Rua Uzeda Luna",
+    "Dias": "Todos os dias",
+    "Horário": "6h às 18h",
+    "Observação": "",
+    "Latitude": -8.018861,
+    "Longitude": -34.895011
+  },
+  {
+    "Nome": "Feira de Beberibe",
+    "Localização": "Praça da Convenção",
+    "Dias": "Todos os dias",
+    "Horário": "6h às 18h",
+    "Observação": "",
+    "Latitude": -8.037481,
+    "Longitude": -34.891785
+  },
+  {
+    "Nome": "Feira Arruda",
+    "Localização": "Rua Ramis Galvão",
+    "Dias": "Quinta a sábado",
+    "Horário": "6h às 18h",
+    "Observação": "",
+    "Latitude": -8.025208,
+    "Longitude": -34.893689
+  },
+  {
+    "Nome": "Feira Encruzilhada",
+    "Localização": "Largo da Encruzilhada",
+    "Dias": "Segundas e terças",
+    "Horário": "6h às 18h",
+    "Observação": "",
+    "Latitude": -8.036735,
+    "Longitude": -34.891921
+  },
+  {
+    "Nome": "Feira Alto do Deodato",
+    "Localização": "Rua Alto do Deodato",
+    "Dias": "Domingo",
+    "Horário": "6h às 12h",
+    "Observação": "",
+    "Latitude": -8.012372,
+    "Longitude": -34.89941
+  },
+  {
+    "Nome": "Feira Casa Amarela",
+    "Localização": "Largo de Casa Amarela",
+    "Dias": "Todos os dias",
+    "Horário": "6h às 18h",
+    "Observação": "",
+    "Latitude": -8.026202,
+    "Longitude": -34.917926
+  },
+  {
+    "Nome": "Feira Nova Descoberta",
+    "Localização": "Av. Nova Descoberta",
+    "Dias": "Todos os dias",
+    "Horário": "6h às 18h",
+    "Observação": "Domingo de 13h ás 18h",
+    "Latitude": -8.000821,
+    "Longitude": -34.923073
+  },
+  {
+    "Nome": "Feira Bomba Grande",
+    "Localização": "Rua Inácio Monteiro",
+    "Dias": "Quarta e quinta",
+    "Horário": "6h às 18h",
+    "Observação": "",
+    "Latitude": -8.047332,
+    "Longitude": -34.931098
+  },
+  {
+    "Nome": "Feira do Cordeiro",
+    "Localização": "Pátio do Mercado do Cordeiro",
+    "Dias": "Quinta a sábado",
+    "Horário": "6h às 20h",
+    "Observação": "",
+    "Latitude": -8.052208,
+    "Longitude": -34.921784
+  },
+  {
+    "Nome": "Feira da Várzea",
+    "Localização": "Rua Azevedo Coutinho",
+    "Dias": "Quinta a sábado",
+    "Horário": "6h às 20h",
+    "Observação": "",
+    "Latitude": -8.049637,
+    "Longitude": -34.960032
+  },
+  {
+    "Nome": "Feira do Engenho do Meio",
+    "Localização": "Rua Gov. Lupo Garro",
+    "Dias": "Sábados e domingos",
+    "Horário": "06h às 17h",
+    "Observação": "",
+    "Latitude": -8.056383,
+    "Longitude": -34.943758
+  },
+  {
+    "Nome": "Feira de Areias",
+    "Localização": "Rua Barros Sobrinho",
+    "Dias": "Sexta e sábado",
+    "Horário": "6h às 18h",
+    "Observação": "",
+    "Latitude": -8.088718,
+    "Longitude": -34.934379
+  },
+  {
+    "Nome": "Feira da Mustardinha",
+    "Localização": "Av. Manoel Gonçalves da Luz",
+    "Dias": "Todos os dias",
+    "Horário": "6h às 18h",
+    "Observação": "",
+    "Latitude": -8.071074,
+    "Longitude": -34.918055
+  },
+  {
+    "Nome": "Feira de Afogados",
+    "Localização": "Estrada dos Remédios. s/n",
+    "Dias": "Todos os dias",
+    "Horário": "6h às 20h",
+    "Observação": "",
+    "Latitude": -8.077787,
+    "Longitude": -34.90709
+  },
+  {
+    "Nome": "Feira do Jordão",
+    "Localização": "Rua Alberto Lundgren",
+    "Dias": "Todos os dias",
+    "Horário": "6h às 18h",
+    "Observação": "",
+    "Latitude": -8.137061,
+    "Longitude": -34.937023
+  },
+  {
+    "Nome": "Feira do Ibura UR – 01",
+    "Localização": "Av. Pernambuco",
+    "Dias": "Todos os dias",
+    "Horário": "06h às 18h",
+    "Observação": "",
+    "Latitude": -8.118719,
+    "Longitude": -34.946475
+  }
+]

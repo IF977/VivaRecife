@@ -1,0 +1,119 @@
+[
+  {
+    "nome": "Teatro do Parque",
+    "descricao": "Completado 100 anos em 2015 o teatro se encontra fechado para obras desde 2014 com previsão para voltar a funcionar em Novembro de 2016.",
+    "bairro": "Boa Vista",
+    "logradouro": "Rua do Hospício. 81",
+    "Telefone": "(81)33551553",
+    "latitude": -8.061976,
+    "longitude": -34.884742
+  },
+  {
+    "nome": "Teatro Barreto Júnior",
+    "descricao": "Primeiro teatro da zona sul da cidade local onde funcionava o CineAtlântico recebe espetáculos internacionais e festivais de dança locais.",
+    "bairro": "Pina",
+    "logradouro": "Endereço: Rua Estudante Jeremias Bastos. s/n",
+    "Telefone": "(81) 33556398  / 33556399",
+    "latitude": -8.090579,
+    "longitude": -34.884095
+  },
+  {
+    "nome": "Teatro de Santa Isabel",
+    "descricao": "Primeiro e mais expressivo exemplar de arquitetura neoclássica em Pernambuco idealizado por Francisco do Rego Barros atualmente proporciona visitas guiadas e concertos da Orquestra Sinfônica do Recife além de espetáculos com temáticas variadas.",
+    "bairro": "Santo Antonio",
+    "logradouro": "Praça da República - s/n",
+    "Telefone": "(81) 3355.3323 /  33553324",
+    "latitude": -8.060693,
+    "longitude": -34.878138
+  },
+  {
+    "nome": "Teatro Apolo",
+    "descricao": "Com fachada em mármore de Lisboa o teatro integra o Centro de Formações e Pesquisas das Artes Cênicas ApoloHermilo. Estilo Neoclássio",
+    "bairro": "Recife",
+    "logradouro": "Rua do Apolo 121",
+    "Telefone": "(81) 33553320 / 33553321",
+    "latitude": -8.061439,
+    "longitude": -34.872534
+  },
+  {
+    "nome": "Teatro Hermilo Borba Filho",
+    "descricao": "A partir da adaptação de dois armazéns que ficavam nos fundos do Teatro Apolo surge o teatro Hermilo Borba Filho com espaço de configuração flexível permitindo ajustes de suas arquibancadas em função do espetáculo. Possui programação com preços populares.",
+    "bairro": "Recife",
+    "logradouro": "Cais do Apolo s/n",
+    "Telefone": "(81) 33553320 / 33553321",
+    "latitude": -8.06183,
+    "longitude": -34.872795
+  },
+  {
+    "nome": "Teatro Luiz Mendonça",
+    "descricao": "Instalado no Parque Dona Lindu bairro de Boa Viagem o teatro é um dos mais recentes da capital pernambucana e possui um sistema reversível possibilitando funcionamento tanto para a área interna quanto para a esplanada em casos de apresentações ao ar livre.",
+    "bairro": "Boa Viagem",
+    "logradouro": "Av. Boa Viagem s/n",
+    "Telefone": "(81) 33559821 / 33559823",
+    "latitude": -8.141965,
+    "longitude": -34.903683
+  },
+  {
+    "nome": "Teatro Boa Vista",
+    "descricao": "Criado em 2010 nas dependências do Colégio Salesiano o Teatro Boa Vista dispõe de 800 lugares para o público e recebe festivais de dança e peças infantis nacionais.",
+    "bairro": "Boa Vista",
+    "logradouro": "R. Dom Bôsco 551",
+    "Telefone": "(81) 21295961",
+    "latitude": -8.0605756,
+    "longitude": -34.8935803
+  },
+  {
+    "nome": "Teatro Arraial",
+    "descricao": "Localizado na Rua da Aurora O Teatro Arraial Ariano Suassuna é um equipamento de pequeno porte com apenas 94 poltronas e dois camarins. Em seu acervo o espaço conta com 150 fonogramas para utilização nos espetáculos e possui programação variada destinada a um público de todas as idades.",
+    "bairro": "Boa Vista",
+    "logradouro": "R. da Aurora 457",
+    "Telefone": "(81) 31843057",
+    "latitude": -8.0599357,
+    "longitude": -34.8803492
+  },
+  {
+    "nome": "Teatro Valdemar Oliveira",
+    "descricao": "No bairro da Soledade o Teatro Valdemar Oliveira é um espaço moderno de médio porte muito utilizado para peças infantis.",
+    "bairro": "Soledade",
+    "logradouro": "Praça Osvaldo Cruz 412",
+    "Telefone": "(81) 32221200 / 32221284",
+    "latitude": -8.055285,
+    "longitude": -34.8914722
+  },
+  {
+    "nome": "Teatro Alfredo de Oliveira",
+    "descricao": "Localizado na Praça Osvaldo Cruz o espaço de artes cênicas possui programação variada visando todos os públicos",
+    "bairro": "Soledade",
+    "logradouro": "Praça Osvaldo Cruz 412A",
+    "Telefone": "(81) 32221284",
+    "latitude": -8.0556155,
+    "longitude": -34.8918026
+  },
+  {
+    "nome": "Teatro Marco Camarotti",
+    "descricao": "Pertencente ao Sesc Santo Amaro o Teatro Marco Camarotti é ativo e possui programação variada contemplando públicos de todas as idades.",
+    "bairro": "Santo Amaro",
+    "logradouro": "R. Treze de Maio 455",
+    "Telefone": "(81) 32161728",
+    "latitude": -8.0496014,
+    "longitude": -34.8818494
+  },
+  {
+    "nome": "Teatro Joaquim Cardozo",
+    "descricao": "No Casarão do Centro Cultural Benfica bairro da Madalena o teatro possui apenas 50 lugares com o intuito de oferecer um contato maior entre artista e público.",
+    "bairro": "Madalena",
+    "logradouro": "R. Benfica 157",
+    "Telefone": "(81) 21267388",
+    "latitude": -8.0600654,
+    "longitude": -34.901732
+  },
+  {
+    "nome": "Teatro Rio Mar",
+    "descricao": "Pertencente ao Shopping Rio Mar o teatro possui capacidade para 696 espectadores e conta com equipamentos e sistemas de áudio e iluminação de alta qualidade. É acessível para cadeirantes e pessoas com dificuldade de locomoção.",
+    "bairro": "Pina",
+    "logradouro": "Av. República do Líbano 251",
+    "Telefone": "",
+    "latitude": -8.0861186,
+    "longitude": -34.89483
+  }
+]

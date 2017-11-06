@@ -1,0 +1,547 @@
+[
+  {
+    "local": "Mercado da Boa Vista",
+    "latitude": -8.0633917,
+    "longitude": -34.8884778
+  },
+  {
+    "local": "Casa da Cultura",
+    "latitude": -8.0660083,
+    "longitude": -34.8833556
+  },
+  {
+    "local": "Parque 13 de Maio - Ponto1",
+    "latitude": -8.0575778,
+    "longitude": -34.8805694
+  },
+  {
+    "local": "Parque 13 de Maio - Ponto2",
+    "latitude": -8.0570944,
+    "longitude": -34.8814194
+  },
+  {
+    "local": "Parque 13 de Maio - Ponto3",
+    "latitude": -8.0583611,
+    "longitude": -34.881225
+  },
+  {
+    "local": "Parque 13 de Maio - Ponto4",
+    "latitude": -8.0557639,
+    "longitude": -34.8819472
+  },
+  {
+    "local": "Rua da Aurora",
+    "latitude": -8.0583972,
+    "longitude": -34.8791583
+  },
+  {
+    "local": "Praça da República",
+    "latitude": -8.0613639,
+    "longitude": -34.8772306
+  },
+  {
+    "local": "Avenida Rio Branco",
+    "latitude": -8.0622917,
+    "longitude": -34.8739333
+  },
+  {
+    "local": "Av. Marquês de Olinda",
+    "latitude": -8.063725,
+    "longitude": -34.8745639
+  },
+  {
+    "local": "Forte do Brum",
+    "latitude": -8.0528944,
+    "longitude": -34.8708694
+  },
+  {
+    "local": "Praça Arsenal",
+    "latitude": -8.0611194,
+    "longitude": -34.870925
+  },
+  {
+    "local": "Rua da Guia",
+    "latitude": -8.0612972,
+    "longitude": -34.8715889
+  },
+  {
+    "local": "Rua do Bom Jesus",
+    "latitude": -8.0615806,
+    "longitude": -34.8710722
+  },
+  {
+    "local": "Praça Marco Zero - Ponto1",
+    "latitude": -8.0629028,
+    "longitude": -34.8708333
+  },
+  {
+    "local": "Praça Marco Zero - Ponto2",
+    "latitude": -8.0628278,
+    "longitude": -34.8710333
+  },
+  {
+    "local": "Praça Marco Zero - Ponto3",
+    "latitude": -8.0629889,
+    "longitude": -34.87155
+  },
+  {
+    "local": "Praça Marco Zero - Ponto4",
+    "latitude": -8.0632056,
+    "longitude": -34.8715694
+  },
+  {
+    "local": "Rua da Moeda",
+    "latitude": -8.064725,
+    "longitude": -34.8734167
+  },
+  {
+    "local": "Av. Alfredo Lisboa",
+    "latitude": -8.0663444,
+    "longitude": -34.8733167
+  },
+  {
+    "local": "Rua Mariz e Barros",
+    "latitude": -8.0647713,
+    "longitude": -34.8728157
+  },
+  {
+    "local": "Praça Tiradentes",
+    "latitude": -8.0587633,
+    "longitude": -34.8722688
+  },
+  {
+    "local": "Parada Conceito",
+    "latitude": -8.0627869,
+    "longitude": -34.8951397
+  },
+  {
+    "local": "Forte cinco Pontas",
+    "latitude": -8.0716444,
+    "longitude": -34.8808056
+  },
+  {
+    "local": "Mercado São José - Ponto1",
+    "latitude": -8.0681028,
+    "longitude": -34.8784139
+  },
+  {
+    "local": "Mercado São José - Ponto2",
+    "latitude": -8.0684306,
+    "longitude": -34.8776889
+  },
+  {
+    "local": "Policlínica Professor Waldemar de Oliveira",
+    "latitude": -8.0521775,
+    "longitude": -34.8848224
+  },
+  {
+    "local": "Policlínica Gouveia de Barros",
+    "latitude": -8.0620689,
+    "longitude": -34.8880756
+  },
+  {
+    "local": "Mercado da Encruzilhada - Ponto1",
+    "latitude": -8.0364389,
+    "longitude": -34.8924
+  },
+  {
+    "local": "Mercado da Encruzilhada - Ponto2",
+    "latitude": -8.0369639,
+    "longitude": -34.8925111
+  },
+  {
+    "local": "Mercado da Encruzilhada - Ponto3",
+    "latitude": -8.0369583,
+    "longitude": -34.8917222
+  },
+  {
+    "local": "Mercado da Encruzilhada - Ponto4",
+    "latitude": -8.0370222,
+    "longitude": -34.8918389
+  },
+  {
+    "local": "Compaz Alto Santa Terezinha",
+    "latitude": -8.0105298,
+    "longitude": -34.9030356
+  },
+  {
+    "local": "Upinha Governador Eduardo Campos",
+    "latitude": -8.0238109,
+    "longitude": -34.8997943
+  },
+  {
+    "local": "Upinha Dra. Fernanda Wanderley",
+    "latitude": -8.0053215,
+    "longitude": -34.8998699
+  },
+  {
+    "local": "Policlínica Amaury Coutinho",
+    "latitude": -8.0161318,
+    "longitude": -34.8821623
+  },
+  {
+    "local": "Policlínica Salomão Kelner",
+    "latitude": -8.0211643,
+    "longitude": -34.8954691
+  },
+  {
+    "local": "Praça Morro da Conceição",
+    "latitude": -8.0194333,
+    "longitude": -34.9151139
+  },
+  {
+    "local": "Parque da Macaxeira",
+    "latitude": -8.0127778,
+    "longitude": -34.9317722
+  },
+  {
+    "local": "Mercado Casa Amarela - Ponto1",
+    "latitude": -8.0265306,
+    "longitude": -34.9179056
+  },
+  {
+    "local": "Mercado Casa Amarela - Ponto2",
+    "latitude": -8.0267028,
+    "longitude": -34.9178417
+  },
+  {
+    "local": "Praça Trabalho",
+    "latitude": -8.0229389,
+    "longitude": -34.91435
+  },
+  {
+    "local": "Sítio da Trindade - Ponto1",
+    "latitude": -8.03065,
+    "longitude": -34.9125917
+  },
+  {
+    "local": "Sítio da Trindade - Ponto2",
+    "latitude": -8.0282944,
+    "longitude": -34.9118
+  },
+  {
+    "local": "Praça do Derby - Ponto1",
+    "latitude": -8.05715,
+    "longitude": -34.8987639
+  },
+  {
+    "local": "Praça do Derby - Ponto2",
+    "latitude": -8.0562806,
+    "longitude": -34.8990667
+  },
+  {
+    "local": "Parque da Jaqueira - Ponto1",
+    "latitude": -8.0374361,
+    "longitude": -34.9055111
+  },
+  {
+    "local": "Parque da Jaqueira - Ponto2",
+    "latitude": -8.03765,
+    "longitude": -34.9046583
+  },
+  {
+    "local": "Parque da Jaqueira - Ponto3",
+    "latitude": -8.0372111,
+    "longitude": -34.9035861
+  },
+  {
+    "local": "Parque da Jaqueira - Ponto4",
+    "latitude": -8.0365083,
+    "longitude": -34.9050528
+  },
+  {
+    "local": "Parque da Jaqueira - Ponto5",
+    "latitude": -8.0369306,
+    "longitude": -34.9055361
+  },
+  {
+    "local": "Parque Santana - Ponto1",
+    "latitude": -8.0411889,
+    "longitude": -34.9172111
+  },
+  {
+    "local": "Parque Santana - Ponto2",
+    "latitude": -8.0414556,
+    "longitude": -34.9181389
+  },
+  {
+    "local": "Parque Santana - Ponto3",
+    "latitude": -8.0422139,
+    "longitude": -34.9165889
+  },
+  {
+    "local": "Upinha Dr. Moacyr André Gomes",
+    "latitude": -8.0224895,
+    "longitude": -34.914318
+  },
+  {
+    "local": "Upinha Dom Hélder Câmera",
+    "latitude": -8.0035808,
+    "longitude": -34.92031
+  },
+  {
+    "local": "Biblioteca Casa Amarela",
+    "latitude": -8.0251694,
+    "longitude": -34.9159676
+  },
+  {
+    "local": "Centro Médico Senador Ermírio de Moraes",
+    "latitude": -8.0287541,
+    "longitude": -34.9258908
+  },
+  {
+    "local": "Policlínica Albert Sabin",
+    "latitude": -8.0339643,
+    "longitude": -34.9053644
+  },
+  {
+    "local": "Upinha Acs Maria Rita da Silva",
+    "latitude": -8.0170317,
+    "longitude": -34.9133057
+  },
+  {
+    "local": "Upinha da Guabiraba",
+    "latitude": -8.0063804,
+    "longitude": -34.9372423
+  },
+  {
+    "local": "Arraial Bom Jesus",
+    "latitude": -8.0572972,
+    "longitude": -34.9312472
+  },
+  {
+    "local": "Mercado Cordeiro",
+    "latitude": -8.0518556,
+    "longitude": -34.9213167
+  },
+  {
+    "local": "Mercado Madalena",
+    "latitude": -8.0523944,
+    "longitude": -34.9086833
+  },
+  {
+    "local": "Policlínica Lessa de Andrade",
+    "latitude": -8.058732,
+    "longitude": -34.9070542
+  },
+  {
+    "local": "Centro de Saúde Dr. José Dustan",
+    "latitude": -8.0391256,
+    "longitude": -34.9306753
+  },
+  {
+    "local": "Mercado Afogados",
+    "latitude": -8.07795,
+    "longitude": -34.9069333
+  },
+  {
+    "local": "Praça San Martim",
+    "latitude": -8.0710222,
+    "longitude": -34.9288
+  },
+  {
+    "local": "Praça de Jardim São Paulo",
+    "latitude": -8.0813194,
+    "longitude": -34.9382556
+  },
+  {
+    "local": "Jardim Botânico - Ponto1",
+    "latitude": -8.076628,
+    "longitude": -34.967363
+  },
+  {
+    "local": "Jardim Botânico - Ponto2",
+    "latitude": -8.077299,
+    "longitude": -34.967014
+  },
+  {
+    "local": "Policlínica Agamenon Magalhães",
+    "latitude": -8.080631,
+    "longitude": -34.90552
+  },
+  {
+    "local": "Biblioteca de Afogados",
+    "latitude": -8.082244,
+    "longitude": -34.908058
+  },
+  {
+    "local": "Centro de Saúde Bido Krause",
+    "latitude": -8.07952,
+    "longitude": -34.970215
+  },
+  {
+    "local": "Maternidade Bandeira Filho",
+    "latitude": -8.079017,
+    "longitude": -34.910919
+  },
+  {
+    "local": "Lagoa do Araça - Ponto1",
+    "latitude": -8.0926194,
+    "longitude": -34.9158389
+  },
+  {
+    "local": "Lagoa do Araça - Ponto2",
+    "latitude": -8.0965028,
+    "longitude": -34.9146861
+  },
+  {
+    "local": "Av. Boa Viagem - Hotel Atlante Plaza",
+    "latitude": -8.136325,
+    "longitude": -34.9016111
+  },
+  {
+    "local": "Av. Boa Viagem - Primeiro Jardim",
+    "latitude": -8.1022611,
+    "longitude": -34.885675
+  },
+  {
+    "local": "Av. Boa Viagem - Segundo Jardim",
+    "latitude": -8.1059139,
+    "longitude": -34.8873694
+  },
+  {
+    "local": "Av. Boa Viagem - Terceiro Jardim",
+    "latitude": -8.1088556,
+    "longitude": -34.8887
+  },
+  {
+    "local": "Av. Boa Viagem - Hotel Transamérica",
+    "latitude": -8.0955556,
+    "longitude": -34.8829306
+  },
+  {
+    "local": "Av. Boa Viagem - Quiosque 3 - Em frente as quadras de tênis",
+    "latitude": -8.0996806,
+    "longitude": -34.8843028
+  },
+  {
+    "local": "Av. Boa Viagem - Quiosque 16 - Em frente ao 2632",
+    "latitude": -8.1138528,
+    "longitude": -34.8910639
+  },
+  {
+    "local": "Av. Boa Viagem - Quiosque 18 - Em frente a padaria Boa Viagem",
+    "latitude": -8.1152333,
+    "longitude": -34.8920139
+  },
+  {
+    "local": "Av. Boa Viagem - Quiosque 20 - Em frente ao 3056",
+    "latitude": -8.1168917,
+    "longitude": -34.8929639
+  },
+  {
+    "local": "Av. Boa Viagem - Quiosque 22 - Em frente ao Acaiaca n 3232",
+    "latitude": -8.1184861,
+    "longitude": -34.8939806
+  },
+  {
+    "local": "Av. Boa Viagem - Quiosque 24 - Em frente ao n 2472 Edif. Acapulco",
+    "latitude": -8.1203528,
+    "longitude": -34.8950861
+  },
+  {
+    "local": "Av. Boa Viagem - Quiosque 26 - Em frente ao n 3672 Edif. Península Ibérica",
+    "latitude": -8.1218667,
+    "longitude": -34.8958639
+  },
+  {
+    "local": "Av. Boa Viagem - Quiosque 28 - Ponto do Açaí",
+    "latitude": -8.1235833,
+    "longitude": -34.8965444
+  },
+  {
+    "local": "Av. Boa Viagem - Quiosque 30 - Em frente ao Hotel Golden Tulip (Recife Palace)",
+    "latitude": -8.1249556,
+    "longitude": -34.8969583
+  },
+  {
+    "local": "Av. Boa Viagem - Quiosque 32 - Em frente ao Hotel Vila Rica",
+    "latitude": -8.1269139,
+    "longitude": -34.8976917
+  },
+  {
+    "local": "Av. Boa Viagem - Quiosque 33 - Em frente ao Edif. Castelinho",
+    "latitude": -8.1285389,
+    "longitude": -34.8982528
+  },
+  {
+    "local": "Av. Boa Viagem - Quiosque 34 - Coco Louco",
+    "latitude": -8.1295472,
+    "longitude": -34.8987028
+  },
+  {
+    "local": "Av. Boa Viagem - Quiosque 38 - Em frente ao n 5030 (Edif. Luiz Dias Lins)",
+    "latitude": -8.133275,
+    "longitude": -34.9003917
+  },
+  {
+    "local": "Av. Boa Viagem - Quiosque 46(45) - Em frente ao n 5740 (Edif.Manoel de Brito)",
+    "latitude": -8.1392389,
+    "longitude": -34.9025694
+  },
+  {
+    "local": "Av. Boa Viagem - Quiosque 51 - Em frente ao n 6370 (Edi. Saint Honoré)",
+    "latitude": -8.1442667,
+    "longitude": -34.9046611
+  },
+  {
+    "local": "Praça de Boa Viagem - Ponto1",
+    "latitude": -8.1319806,
+    "longitude": -34.9005667
+  },
+  {
+    "local": "Praça de Boa Viagem - Ponto2",
+    "latitude": -8.1319778,
+    "longitude": -34.9014
+  },
+  {
+    "local": "Parque Dona Lindu - Ponto1",
+    "latitude": -8.1405806,
+    "longitude": -34.9042361
+  },
+  {
+    "local": "Parque Dona Lindu - Ponto2",
+    "latitude": -8.1408806,
+    "longitude": -34.9034389
+  },
+  {
+    "local": "Parque Dona Lindu - Ponto3",
+    "latitude": -8.1418778,
+    "longitude": -34.9048139
+  },
+  {
+    "local": "Upinha Desembargador José Manoel de Freitas UR4/UR5",
+    "latitude": -8.132038,
+    "longitude": -34.948262
+  },
+  {
+    "local": "Policlínica do Pina",
+    "latitude": -8.086005,
+    "longitude": -34.890387
+  },
+  {
+    "local": "Policlínica Arnaldo Marques",
+    "latitude": -8.120377,
+    "longitude": -34.944172
+  },
+  {
+    "local": "BASE, Parada Conceito",
+    "latitude": -8.0627869,
+    "longitude": -34.8951397
+  },
+  {
+    "local": "Estação Rádio Base da EMPREL",
+    "latitude": -8.0673179,
+    "longitude": -34.9369963
+  },
+  {
+    "local": "Estação Rádio Base Prefeitura",
+    "latitude": -8.0542629,
+    "longitude": -34.8728612
+  },
+  {
+    "local": "Estação Rádio Base Pina, em frente ao Boi Preto",
+    "latitude": -8.0904447,
+    "longitude": -34.8814723
+  }
+]
