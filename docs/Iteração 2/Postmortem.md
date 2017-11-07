@@ -1,5 +1,3 @@
-docs/Itereção 2/Postmortem.md
-
 #VivaRecife - #i(1..4)
 
 # Postmortem
@@ -39,4 +37,3 @@ Início da Iteração | Término da iteração
 ### Lições aprendidas
 * Geral - Cuidados em relação aos commits no git
 * Geral - Verificar o funcionamento da aplicação em todas plataformas.
-* 
