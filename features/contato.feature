@@ -1,6 +1,7 @@
 Feature: contato
     As a productOwner
-    #falta completar 
+    I want to send some information via a form
+    So that I can get in touch with the website
     
     Scenario: Message sent successfully
         Given I am on the index link

@@ -1,7 +1,7 @@
 Feature: acessar_views
   As a productOwner
-  I order to view each one of the pages links
-  I want to click on them
+  I want to view each one of the pages links
+  So that I can click on them
   
   Scenario: Visiting the Home link
     Given I am on the index link
