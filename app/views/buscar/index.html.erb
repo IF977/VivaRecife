@@ -6,6 +6,20 @@
 	</head>
 	<body>
 		<%= render partial: "header" %>
-
+		<style type="text/css">
+			.navbar-form {
+				margin-top: 30px;
+				text-align: center;
+			}
+			.navbar-form .form-control {
+			    width: 300px;
+			}
+		</style>
+      	<form class="navbar-form" role="search">
+        	<div class="form-group">
+          		<input type="text" class="form-control" placeholder="Pesquisar bairro">
+        	</div>
+        	<button type="submit" class="btn btn-default">Pesquisar</button>
+      	</form>
 	</body>
 </html>
