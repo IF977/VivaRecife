@@ -3,8 +3,54 @@
 	<head>
 		<title></title>
 		<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+		
 	</head>
 	<body>
+		<script>
+			function printarPlaces(){
+				<% require 'json' %>
+				<% nomes_json=["academia_da_cidade","acidentes_transito","conecta_recife","museus","parques_pracas","shopping","teatros"] %>
+    			<% for nomes in nomes_json do%>
+    				<% arq = File.read("../VivaRecife/app/assets/jsons/"+nomes+".json")%>
+    				<% datajson = JSON.parse(arq) %>
+    				<%for elemento in datajson do %>
+    					<% if elemento["bairro"] != nil %>
+    						var string = "<%= elemento["bairro"].downcase %>";
+	    					var valor_da_busca = str(document.getElementyById('busca'));
+	    					console.log(valor_da_busca);
+	    					if (string == "" ) {
+	    						continue;
+	    					}
+	    					else {
+	    						<% if nomes == "academia_da_cidade" %>
+	    							document.write("<div style='height: 200px;'><h1>" +"<%= elemento["nome"]%>"+ "</h1>"+
+	    								"<strong>Endereço:<strong>"+"<%=elemento["endereco"]%>"+"<br>"+
+	    								"<strong>Fone(s):<strong>"+"<%=elemento["Fone"]%>"+"<br>"+
+	    								"<strong>Horarios:<strong>"+"<%=elemento["horario_de_aulas"]%>"+"<br>"+
+	    								"<img src="+
+	    								"https://maps.googleapis.com/maps/api/streetview?size=400x400"+
+	    								"&location="+"<%= elemento["latitude"]%>"+","+"<%= elemento["longitude"]%>"+
+										"&fov=90&heading=235&pitch=10&key=AIzaSyCXwCKaGpeJ2lXQiVsbq57lwVcjshK08sc" +
+										" style='float:right; max-width:100%; max-height:100%;'>");
+	    						<% elsif nomes == "acidentes_transito" %>
+	    						<% elsif nomes == "conecta_recife" %>
+	    							document.write("<div><h1>" +"<%=elemento["nome"]%>"+ "</h1></div>");
+	    						<% elsif nomes == "museus" %>
+	    							document.write("<div><h1>" +"<%=elemento["nome"]%>"+ "</h1></div>");
+	    						<% elsif nomes == "parques_pracas" %>
+	    							document.write("<div><h1>"+"<%= elemento["nome"]%>"+ "</h1></div>");
+	    						<% elsif nomes == "shopping" %>
+	    							document.write("<div><h1>" +"<%=elemento["nome"]%>"+ "</h1></div>");
+	    						<% elsif nomes == "teatros" %>
+	    							document.write("<div><h1>"+"<%=elemento["nome"]%>"+ "</h1></div>");
+	    						<% end %>
+	    					}
+    					<% end %>
+    				<% end %>
+    			<% end%>
+			}
+		</script>
+
 		<%= render partial: "header" %>
 		<style type="text/css">
 			.navbar-form {
@@ -17,9 +63,9 @@
 		</style>
       	<form class="navbar-form" role="search">
         	<div class="form-group">
-          		<input type="text" class="form-control" placeholder="Pesquisar bairro">
+          		<input id="busca" type="text" class="form-control" placeholder="Pesquisar bairro" >
         	</div>
-        	<button type="submit" class="btn btn-default">Pesquisar</button>
+        	<button type="submit" class="btn btn-default" onkeypress="printarPlaces()" >Pesquisar</button>
       	</form>
 	</body>
 </html>
