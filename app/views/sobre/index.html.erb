@@ -9,19 +9,39 @@
 			}
 			body{
 				background-color: transparent !important;
+				color: white;
 			}
 			.jumbotron{
 				background-color: transparent !important;
 				text-align: center;
-				color: white;
+				margin-bottom: 0;
+			}
+			.sobre_body {
+				margin-left: 2%;
+				margin-right: 2%;
+			}
+			#equipe {
+				margin-top: 21%;
+			}
+			.equipe_membros li {
+				display: inline;
+				margin: 10%;
+			}
+			.membros-image {
+				width: 15%;
+				border-radius: 50%;
+				margin: 6%;
+				margin-top: 0;
+				margin-bottom: 0;
 			}
 		</style>
 	</head>
 	<body>
 		<%= render partial: "header" %>
 
-		<div class="jumbotron"> <h1 style="">Sobre</h1></div>
-		<div class="col-md-12" style="color:white;">
+		<div class="sobre_body">
+			<div class="jumbotron"> <h1 style="">Sobre</h1></div>
+			<div class="col-md-12" style="color:white;">
 				<h2> Qual o nosso objetivo ?</h2>
 				<p style="font-size: 15px;">
 					Oferecer um sistema capaz de entregar informações relacionadas a diferentes características a respeito de um determinado bairro, facilitando a vida das pessoas que desejam se mudar e que buscam um conhecimento prévio a respeito da região de sua futura moradia.
@@ -33,7 +53,23 @@
 				<p style="font-size: 15px;">
 					Oferecer um sistema capaz de entregar informações relacionadas a diferentes características a respeito de um determinado bairro, facilitando a vida das pessoas que desejam se mudar e que buscam um conhecimento prévio a respeito da região de sua futura moradia.
 				</p>
+			</div>
+			<div class="jumbotron" id="equipe">
+				<h1>Equipe</h1>
+				<br><br>
+				<ul class="equipe_membros">
+					<%= image_tag "carol.jpg", class: "membros-image"%>
+					<%= image_tag "1.jpg", class: "membros-image"%>
+					<%= image_tag "2.jpg", class: "membros-image"%>
+				</ul>
+				<ul class="equipe_membros">
+					<li>Carolina Melo</li>
+					<li>José Guilherme</li>
+					<li>José Wilson</li>
+				</ul>
+			</div>
 		</div>
+
 		<style type="text/css">
 
 		</style>
