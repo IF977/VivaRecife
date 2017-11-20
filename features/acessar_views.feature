@@ -7,11 +7,6 @@ Feature: acessar_views
     Given I am on the index link
     When I click on the home/index link
     Then I should be on home_index link
-  
-  Scenario: Visiting the Buscar link
-    Given I am on the index link
-    When I click on the buscar/index link
-    Then I should be on Buscar link
 
   Scenario: Visiting the Bairros link
     Given I am on the index link
