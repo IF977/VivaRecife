@@ -2,7 +2,7 @@ Rails.application.routes.draw do
   get 'bairros/index'
 
   get 'contato/index'
-  post 'contato/recebendo_mensagem_usuario'
+  post 'contato/contato_enviado'
 
   get 'sobre/index'
 

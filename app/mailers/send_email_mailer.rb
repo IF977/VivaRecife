@@ -4,5 +4,11 @@ class SendEmailMailer < ApplicationMailer
 		@email = email
 		@texto = texto
 		mail(to:"vivapelorecife@gmail.com",subject:"Usuario entrando em contato!")
-	end		
+	end	
+	def agradecimento_por_contato (nome,email)
+
+	end
+	def notificacao_cadastro (nome,email)	
+		
+	end
 end

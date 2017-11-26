@@ -3,6 +3,30 @@
 	<head>
 		<title></title>
 		<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+		<script type="text/javascript">
+			function validateForm(){
+				var name = form.name.value;
+				var email = form.email.value;
+				var message = form.message.value;
+				var stringErro = "";
+				if ((name == "")||(email == "")||(message == "")){
+					stringErro += "Você preencheu o formulário de forma incorreta\n";
+					if (name == "") stringErro += "*** Insira seu nome.\n"; 
+					if (email == "") stringErro += "*** Insira o seu email.\n"; 
+					if (message == "") stringErro += "*** Insira a mensagem.\n"; 
+				}
+				if (stringErro == ""){
+					alert("Sua mensagem foi enviada com sucesso.");
+					return true;
+				}
+				else{
+					alert(stringErro);
+					return false;
+				}
+
+			}
+		</script>
 	</head>
 	<style type="text/css">
 		.container {
@@ -20,7 +44,7 @@
 			<div class="row">
 		      <div class="col-md-6 col-md-offset-3">
 		        <div class="well well-sm">
-		          <form class="form-horizontal" action="/contato/recebendo_mensagem_usuario" method="post">
+		          <form name="form" class="form-horizontal" action="/contato/contato_enviado" method="post" >
 			          <fieldset>
 			            <legend class="text-center">Entre em contato conosco</legend>
 			            <!-- Name input-->
@@ -47,7 +71,7 @@
 			            <!-- Form actions -->
 			            <div class="form-group">
 			              <div class="col-md-12 text-right">
-			                <button type="submit" class="btn btn-primary btn-lg">Enviar</button>
+			                <button type="submit" onclick="return validateForm()" class="btn btn-primary btn-lg" >Enviar</button>
 			              </div>
 			            </div>
 			          </fieldset>
