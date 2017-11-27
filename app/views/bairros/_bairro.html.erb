@@ -2,7 +2,7 @@
 	<script>
 	</script>
 	<% @bairros.each do |value| %>
-		<strong>Nome do Bairro:</strong><%= value['nome'] %>
+		<strong>Nome do Bairro:</strong> <a href="https://pt.wikipedia.org/wiki/<%= value['nome'] %>_(Recife)"><%= value['nome'] %></a>
 		<br>
 	<% end %>
 </div>
