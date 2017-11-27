@@ -1,0 +1,2 @@
+class Feira < ApplicationRecord
+end

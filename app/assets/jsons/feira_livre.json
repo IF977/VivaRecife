@@ -1,5 +1,6 @@
 [
   {
+    "bairro": "sao jose",
     "nome": "Feira Dom Vital",
     "localizacao": "Praça Dom Vital",
     "dias": "Quinta a sábado",
@@ -9,6 +10,7 @@
     "longitude": -34.878208
   },
   {
+    "bairro": "agua fria",
     "nome": "Feira Água Fria",
     "localizacao": "Rua Uzeda Luna",
     "dias": "Todos os dias",
@@ -18,6 +20,7 @@
     "longitude": -34.895011
   },
   {
+    "bairro": "beberibe",
     "nome": "Feira de Beberibe",
     "localizacao": "Praça da Convenção",
     "dias": "Todos os dias",
@@ -27,6 +30,7 @@
     "longitude": -34.891785
   },
   {
+    "bairro": "arruda",
     "nome": "Feira Arruda",
     "localizacao": "Rua Ramis Galvão",
     "dias": "Quinta a sábado",
@@ -36,6 +40,7 @@
     "longitude": -34.893689
   },
   {
+    "bairro": "Encruzilhada",
     "nome": "Feira Encruzilhada",
     "localizacao": "Largo da Encruzilhada",
     "dias": "Segundas e terças",
@@ -45,6 +50,7 @@
     "longitude": -34.891921
   },
   {
+    "bairro": "agua fria",
     "nome": "Feira Alto do Deodato",
     "localizacao": "Rua Alto do Deodato",
     "dias": "Domingo",
@@ -54,6 +60,7 @@
     "longitude": -34.89941
   },
   {
+    "bairro": "casa amarela",
     "nome": "Feira Casa Amarela",
     "localizacao": "Largo de Casa Amarela",
     "dias": "Todos os dias",
@@ -63,6 +70,7 @@
     "longitude": -34.917926
   },
   {
+    "bairro": "nova Descoberta",
     "nome": "Feira Nova Descoberta",
     "localizacao": "Av. Nova Descoberta",
     "dias": "Todos os dias",
@@ -72,6 +80,7 @@
     "longitude": -34.923073
   },
   {
+    "bairro": "jardim sao paulo",
     "nome": "Feira Bomba Grande",
     "localizacao": "Rua Inácio Monteiro",
     "dias": "Quarta e quinta",
@@ -81,6 +90,7 @@
     "longitude": -34.931098
   },
   {
+    "bairro": "cordeiro",
     "nome": "Feira do Cordeiro",
     "localizacao": "Pátio do Mercado do Cordeiro",
     "dias": "Quinta a sábado",
@@ -90,6 +100,7 @@
     "longitude": -34.921784
   },
   {
+    "bairro": "varzea",
     "nome": "Feira da Várzea",
     "localizacao": "Rua Azevedo Coutinho",
     "dias": "Quinta a sábado",
@@ -99,6 +110,7 @@
     "longitude": -34.960032
   },
   {
+    "bairro": "engenho do meio",
     "nome": "Feira do Engenho do Meio",
     "localizacao": "Rua Gov. Lupo Garro",
     "dias": "Sábados e domingos",
@@ -108,6 +120,7 @@
     "longitude": -34.943758
   },
   {
+    "bairro": "areias",
     "nome": "Feira de Areias",
     "localizacao": "Rua Barros Sobrinho",
     "dias": "Sexta e sábado",
@@ -117,6 +130,7 @@
     "longitude": -34.934379
   },
   {
+    "bairro": "Mustardinha",
     "nome": "Feira da Mustardinha",
     "localizacao": "Av. Manoel Gonçalves da Luz",
     "dias": "Todos os dias",
@@ -126,6 +140,7 @@
     "longitude": -34.918055
   },
   {
+    "bairro": "Afogados",
     "nome": "Feira de Afogados",
     "localizacao": "Estrada dos Remédios. s/n",
     "dias": "Todos os dias",
@@ -135,6 +150,7 @@
     "longitude": -34.90709
   },
   {
+    "bairro": "Jordao",
     "nome": "Feira do Jordão",
     "localizacao": "Rua Alberto Lundgren",
     "dias": "Todos os dias",
@@ -144,6 +160,7 @@
     "longitude": -34.937023
   },
   {
+    "bairro": "ibura",
     "nome": "Feira do Ibura UR – 01",
     "localizacao": "Av. Pernambuco",
     "dias": "Todos os dias",

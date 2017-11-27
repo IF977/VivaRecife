@@ -10,13 +10,95 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20171122034002) do
+ActiveRecord::Schema.define(version: 20171127014342) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
 
+  create_table "acidentes", force: :cascade do |t|
+    t.string "bairro"
+    t.string "quantVitimas"
+    t.date "data"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
+
   create_table "bairros", force: :cascade do |t|
     t.string "nome"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
+
+  create_table "feiras", force: :cascade do |t|
+    t.string "nome"
+    t.string "bairro"
+    t.string "endereco"
+    t.string "dias"
+    t.string "horario"
+    t.string "lat"
+    t.string "long"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
+
+  create_table "gyms", force: :cascade do |t|
+    t.string "nome"
+    t.string "bairro"
+    t.string "endereco"
+    t.string "fone"
+    t.string "horario"
+    t.string "lat"
+    t.string "long"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
+
+  create_table "museus", force: :cascade do |t|
+    t.string "nome"
+    t.string "descricao"
+    t.string "bairro"
+    t.string "endereco"
+    t.string "telefone"
+    t.string "site"
+    t.string "lat"
+    t.string "long"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
+
+  create_table "parques", force: :cascade do |t|
+    t.string "nome"
+    t.string "tipo"
+    t.string "bairro"
+    t.string "endereco"
+    t.string "area"
+    t.string "lat"
+    t.string "long"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
+
+  create_table "shoppings", force: :cascade do |t|
+    t.string "nome"
+    t.string "descricao"
+    t.string "bairro"
+    t.string "endereco"
+    t.string "telefone"
+    t.string "site"
+    t.string "lat"
+    t.string "long"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
+
+  create_table "teatros", force: :cascade do |t|
+    t.string "nome"
+    t.string "descricao"
+    t.string "bairro"
+    t.string "endereco"
+    t.string "telefone"
+    t.string "lat"
+    t.string "long"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end

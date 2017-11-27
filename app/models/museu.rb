@@ -1,0 +1,2 @@
+class Museu < ApplicationRecord
+end
