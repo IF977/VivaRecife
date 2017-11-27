@@ -28,12 +28,14 @@
 			<%= text_field_tag :search, params[:search], placeholder: "Buscar Bairro", class: "form-control"   %>
 			<%= submit_tag "Buscar" %>
 			<% end %>
-
-			<% if @bairros.present? %>
-			  	<%= render @bairros %>
-			<% else %>
-			  <p>Nenhum bairro encontrado!</p>
-			<% end %>
+			<br><br>
+			<div class="listagemBairros" style="text-align: left; margin-left: 30px">
+				<% if @bairros.present? %>
+				  	<%= render @bairros %>
+				<% else %>
+				  <p>Nenhum bairro encontrado!</p>
+				<% end %>
+			</div>
 		</div>
 
 		<!--script>
