@@ -1,6 +1,6 @@
-#VivaRecife 
+# VivaRecife 
 
-#Postmortem
+# Postmortem
 
 Início da Iteração | Término da iteração
 ------------ | -------------
@@ -20,14 +20,14 @@ Início da Iteração | Término da iteração
 * Testes BDD |@caroolpmelo|
 * Melhorar elementos do Front-end |@caroolpmelo|
 * Finalização do desenvolvimento do sistema |Todos|
-* + Deploys no Heroku |@jgnvs @caroolpmelo|
-* Implementar login |@jwmrf|
+* Deploys (+) no Heroku |@jgnvs @caroolpmelo|
 * Criar Banco de Dados da aplicação |@jgnvs @caroolpmelo|
 * Implementar BD na página Bairros |@jgnvs @caroolpmelo|
 
 ### O que não foi feito
 * Implementar API de autenticação do Facebook (ideia descartada)
 * Testes TDD
+* Implementar login | (feito por @jwmrf, porém não ficou funcional a tempo de ser implementado)
 
 ### Lições aprendidas
 * Organização prévia é essencial e crucial para a boa execução do projeto |Todos|
