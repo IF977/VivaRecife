@@ -1,194 +1,189 @@
-{
-"type": "FeatureCollection",
-                                                                                
-"features": [
-{  "id": 0, "properties": { "bairro_codigo": 728, "bairro_nome_ca": "CIDADE UNIVERSITARIA", "rpa": 4, "microrregiao": 3, "bairro_nome": "Cidade Universitária" }} 
-,
-{  "id": 1, "properties": { "bairro_codigo": 116, "bairro_nome_ca": "SOLEDADE", "rpa": 1, "microrregiao": 2, "bairro_nome": "Soledade" }} 
-,
-{  "id": 2, "properties": { "bairro_codigo": 710, "bairro_nome_ca": "ENGENHO DO MEIO", "rpa": 4, "microrregiao": 2, "bairro_nome": "Engenho do Meio" }} 
-,
-{  "id": 3, "properties": { "bairro_codigo": 841, "bairro_nome_ca": "CACOTE", "rpa": 5, "microrregiao": 2, "bairro_nome": "Caçote" }} 
-,
-{  "id": 4, "properties": { "bairro_codigo": 884, "bairro_nome_ca": "COHAB", "rpa": 6, "microrregiao": 3, "bairro_nome": "Cohab" }} 
-,
-{  "id": 5, "properties": { "bairro_codigo": 736, "bairro_nome_ca": "VARZEA", "rpa": 4, "microrregiao": 3, "bairro_nome": "Várzea" }} 
-,
-{  "id": 6, "properties": { "bairro_codigo": 701, "bairro_nome_ca": "TORROES", "rpa": 4, "microrregiao": 2, "bairro_nome": "Torrões" }} 
-,
-{  "id": 7, "properties": { "bairro_codigo": 698, "bairro_nome_ca": "IPUTINGA", "rpa": 4, "microrregiao": 1, "bairro_nome": "Iputinga" }} 
-,
-{  "id": 8, "properties": { "bairro_codigo": 752, "bairro_nome_ca": "CURADO", "rpa": 5, "microrregiao": 1, "bairro_nome": "Curado" }} 
-,
-{  "id": 9, "properties": { "bairro_codigo": 817, "bairro_nome_ca": "SAN MARTIN", "rpa": 5, "microrregiao": 3, "bairro_nome": "San Martin" }} 
-,
-{  "id": 10, "properties": { "bairro_codigo": 213, "bairro_nome_ca": "IPSEP", "rpa": 6, "microrregiao": 1, "bairro_nome": "Ipsep" }} 
-,
-{  "id": 11, "properties": { "bairro_codigo": 400, "bairro_nome_ca": "PASSARINHO", "rpa": 3, "microrregiao": 3, "bairro_nome": "Passarinho" }} 
-,
-{  "id": 12, "properties": { "bairro_codigo": 590, "bairro_nome_ca": "DOIS IRMAOS", "rpa": 3, "microrregiao": 1, "bairro_nome": "Dois Irmãos" }} 
-,
-{  "id": 13, "properties": { "bairro_codigo": 159, "bairro_nome_ca": "JAQUEIRA", "rpa": 3, "microrregiao": 1, "bairro_nome": "Jaqueira" }} 
-,
-{  "id": 14, "properties": { "bairro_codigo": 868, "bairro_nome_ca": "JARDIM SAO PAULO", "rpa": 5, "microrregiao": 1, "bairro_nome": "Jardim São Paulo" }} 
-,
-{  "id": 15, "properties": { "bairro_codigo": 850, "bairro_nome_ca": "AREIAS", "rpa": 5, "microrregiao": 2, "bairro_nome": "Areias" }} 
-,
-{  "id": 16, "properties": { "bairro_codigo": 906, "bairro_nome_ca": "SANCHO", "rpa": 5, "microrregiao": 1, "bairro_nome": "Sancho" }} 
-,
-{  "id": 17, "properties": { "bairro_codigo": 876, "bairro_nome_ca": "BARRO", "rpa": 5, "microrregiao": 1, "bairro_nome": "Barro" }} 
-,
-{  "id": 18, "properties": { "bairro_codigo": 833, "bairro_nome_ca": "ESTANCIA", "rpa": 5, "microrregiao": 1, "bairro_nome": "Estância" }} 
-,
-{  "id": 19, "properties": { "bairro_codigo": 450, "bairro_nome_ca": "SANTANA", "rpa": 3, "microrregiao": 1, "bairro_nome": "Santana" }} 
-,
-{  "id": 20, "properties": { "bairro_codigo": 892, "bairro_nome_ca": "TEJIPIO", "rpa": 5, "microrregiao": 1, "bairro_nome": "Tejipió" }} 
-,
-{  "id": 21, "properties": { "bairro_codigo": 671, "bairro_nome_ca": "ZUMBI", "rpa": 4, "microrregiao": 1, "bairro_nome": "Zumbi" }} 
-,
-{  "id": 22, "properties": { "bairro_codigo": 680, "bairro_nome_ca": "CORDEIRO", "rpa": 4, "microrregiao": 1, "bairro_nome": "Cordeiro" }} 
-,
-{  "id": 23, "properties": { "bairro_codigo": 922, "bairro_nome_ca": "COQUEIRAL", "rpa": 5, "microrregiao": 1, "bairro_nome": "Coqueiral" }} 
-,
-{  "id": 24, "properties": { "bairro_codigo": 914, "bairro_nome_ca": "TOTO", "rpa": 5, "microrregiao": 1, "bairro_nome": "Totó" }} 
-,
-{  "id": 25, "properties": { "bairro_codigo": 744, "bairro_nome_ca": "CAXANGA", "rpa": 4, "microrregiao": 3, "bairro_nome": "Caxangá" }} 
-,
-{  "id": 26, "properties": { "bairro_codigo": 604, "bairro_nome_ca": "SITIO DOS PINTOS", "rpa": 3, "microrregiao": 1, "bairro_nome": "Sítio dos Pintos" }} 
-,
-{  "id": 27, "properties": { "bairro_codigo": 639, "bairro_nome_ca": "PAU FERRO", "rpa": 3, "microrregiao": 3, "bairro_nome": "Pau Ferro" }} 
-,
-{  "id": 28, "properties": { "bairro_codigo": 140, "bairro_nome_ca": "DERBY", "rpa": 3, "microrregiao": 1, "bairro_nome": "Derby" }} 
-,
-{  "id": 29, "properties": { "bairro_codigo": 345, "bairro_nome_ca": "FUNDAO", "rpa": 2, "microrregiao": 2, "bairro_nome": "Fundão" }} 
-,
-{  "id": 30, "properties": { "bairro_codigo": 183, "bairro_nome_ca": "ROSARINHO", "rpa": 2, "microrregiao": 1, "bairro_nome": "Rosarinho" }} 
-,
-{  "id": 31, "properties": { "bairro_codigo": 310, "bairro_nome_ca": "CAMPINA DO BARRETO", "rpa": 2, "microrregiao": 1, "bairro_nome": "Campina do Barreto" }} 
-,
-{  "id": 32, "properties": { "bairro_codigo": 361, "bairro_nome_ca": "PORTO DA MADEIRA", "rpa": 2, "microrregiao": 2, "bairro_nome": "Porto da Madeira" }} 
-,
-{  "id": 33, "properties": { "bairro_codigo": 353, "bairro_nome_ca": "CAJUEIRO", "rpa": 2, "microrregiao": 2, "bairro_nome": "Cajueiro" }} 
-,
-{  "id": 34, "properties": { "bairro_codigo": 370, "bairro_nome_ca": "BEBERIBE", "rpa": 2, "microrregiao": 3, "bairro_nome": "Beberibe" }} 
-,
-{  "id": 35, "properties": { "bairro_codigo": 426, "bairro_nome_ca": "BOMBA DO HEMETERIO", "rpa": 2, "microrregiao": 2, "bairro_nome": "Bomba do Hemetério" }} 
-,
-{  "id": 36, "properties": { "bairro_codigo": 515, "bairro_nome_ca": "MANGABEIRA", "rpa": 3, "microrregiao": 2, "bairro_nome": "Mangabeira" }} 
-,
-{  "id": 37, "properties": { "bairro_codigo": 396, "bairro_nome_ca": "DOIS UNIDOS", "rpa": 2, "microrregiao": 3, "bairro_nome": "Dois Unidos" }} 
-,
-{  "id": 38, "properties": { "bairro_codigo": 388, "bairro_nome_ca": "LINHA DO TIRO", "rpa": 2, "microrregiao": 3, "bairro_nome": "Linha do Tiro" }} 
-,
-{  "id": 39, "properties": { "bairro_codigo": 272, "bairro_nome_ca": "TORREAO", "rpa": 2, "microrregiao": 1, "bairro_nome": "Torreão" }} 
-,
-{  "id": 40, "properties": { "bairro_codigo": 191, "bairro_nome_ca": "TAMARINEIRA", "rpa": 3, "microrregiao": 1, "bairro_nome": "Tamarineira" }} 
-,
-{  "id": 41, "properties": { "bairro_codigo": 795, "bairro_nome_ca": "MANGUEIRA", "rpa": 5, "microrregiao": 3, "bairro_nome": "Mangueira" }} 
-,
-{  "id": 42, "properties": { "bairro_codigo": 78, "bairro_nome_ca": "ILHA DO LEITE", "rpa": 1, "microrregiao": 2, "bairro_nome": "Ilha do Leite" }} 
-,
-{  "id": 43, "properties": { "bairro_codigo": 221, "bairro_nome_ca": "JORDAO", "rpa": 6, "microrregiao": 2, "bairro_nome": "Jordão" }} 
-,
-{  "id": 44, "properties": { "bairro_codigo": 108, "bairro_nome_ca": "SANTO AMARO", "rpa": 1, "microrregiao": 1, "bairro_nome": "Santo Amaro" }} 
-,
-{  "id": 45, "properties": { "bairro_codigo": 477, "bairro_nome_ca": "POCO", "rpa": 3, "microrregiao": 1, "bairro_nome": "Poço" }} 
-,
-{  "id": 46, "properties": { "bairro_codigo": 442, "bairro_nome_ca": "CASA FORTE", "rpa": 3, "microrregiao": 1, "bairro_nome": "Casa Forte" }} 
-,
-{  "id": 47, "properties": { "bairro_codigo": 469, "bairro_nome_ca": "PARNAMIRIM", "rpa": 3, "microrregiao": 1, "bairro_nome": "Parnamirim" }} 
-,
-{  "id": 48, "properties": { "bairro_codigo": 299, "bairro_nome_ca": "PEIXINHOS", "rpa": 2, "microrregiao": 1, "bairro_nome": "Peixinhos" }} 
-,
-{  "id": 49, "properties": { "bairro_codigo": 329, "bairro_nome_ca": "ARRUDA", "rpa": 2, "microrregiao": 1, "bairro_nome": "Arruda" }} 
-,
-{  "id": 50, "properties": { "bairro_codigo": 86, "bairro_nome_ca": "BOA VISTA", "rpa": 1, "microrregiao": 2, "bairro_nome": "Boa Vista" }} 
-,
-{  "id": 51, "properties": { "bairro_codigo": 663, "bairro_nome_ca": "PRADO", "rpa": 4, "microrregiao": 1, "bairro_nome": "Prado" }} 
-,
-{  "id": 52, "properties": { "bairro_codigo": 51, "bairro_nome_ca": "CABANGA", "rpa": 1, "microrregiao": 2, "bairro_nome": "Cabanga" }} 
-,
-{  "id": 53, "properties": { "bairro_codigo": 248, "bairro_nome_ca": "PINA", "rpa": 6, "microrregiao": 1, "bairro_nome": "Pina" }} 
-,
-{  "id": 54, "properties": { "bairro_codigo": 612, "bairro_nome_ca": "BREJO DA GUABIRABA", "rpa": 3, "microrregiao": 3, "bairro_nome": "Brejo da Guabiraba" }} 
-,
-{  "id": 55, "properties": { "bairro_codigo": 760, "bairro_nome_ca": "ILHA DO RETIRO", "rpa": 4, "microrregiao": 1, "bairro_nome": "Ilha do Retiro" }} 
-,
-{  "id": 56, "properties": { "bairro_codigo": 94, "bairro_nome_ca": "PAISSANDU", "rpa": 1, "microrregiao": 2, "bairro_nome": "Paissandu" }} 
-,
-{  "id": 57, "properties": { "bairro_codigo": 43, "bairro_nome_ca": "ILHA JOANA BEZERRA", "rpa": 1, "microrregiao": 3, "bairro_nome": "Ilha Joana Bezerra" }} 
-,
-{  "id": 58, "properties": { "bairro_codigo": 230, "bairro_nome_ca": "IBURA", "rpa": 6, "microrregiao": 2, "bairro_nome": "Ibura" }} 
-,
-{  "id": 59, "properties": { "bairro_codigo": 540, "bairro_nome_ca": "ALTO JOSE BONIFACIO", "rpa": 3, "microrregiao": 2, "bairro_nome": "Alto José Bonifácio" }} 
-,
-{  "id": 60, "properties": { "bairro_codigo": 493, "bairro_nome_ca": "ALTO DO MANDU", "rpa": 3, "microrregiao": 1, "bairro_nome": "Alto do Mandu" }} 
-,
-{  "id": 61, "properties": { "bairro_codigo": 531, "bairro_nome_ca": "MORRO DA CONCEICAO", "rpa": 3, "microrregiao": 2, "bairro_nome": "Morro da Conceição" }} 
-,
-{  "id": 62, "properties": { "bairro_codigo": 434, "bairro_nome_ca": "CASA AMARELA", "rpa": 3, "microrregiao": 1, "bairro_nome": "Casa Amarela" }} 
-,
-{  "id": 63, "properties": { "bairro_codigo": 930, "bairro_nome_ca": "PONTO DE PARADA", "rpa": 2, "microrregiao": 1, "bairro_nome": "Ponto de Parada" }} 
-,
-{  "id": 64, "properties": { "bairro_codigo": 175, "bairro_nome_ca": "ENCRUZILHADA", "rpa": 2, "microrregiao": 1, "bairro_nome": "Encruzilhada" }} 
-,
-{  "id": 65, "properties": { "bairro_codigo": 124, "bairro_nome_ca": "ESPINHEIRO", "rpa": 3, "microrregiao": 1, "bairro_nome": "Espinheiro" }} 
-,
-{  "id": 66, "properties": { "bairro_codigo": 132, "bairro_nome_ca": "AFLITOS", "rpa": 3, "microrregiao": 1, "bairro_nome": "Aflitos" }} 
-,
-{  "id": 67, "properties": { "bairro_codigo": 27, "bairro_nome_ca": "SANTO ANTONIO", "rpa": 1, "microrregiao": 2, "bairro_nome": "Santo Antônio" }} 
-,
-{  "id": 68, "properties": { "bairro_codigo": 19, "bairro_nome_ca": "RECIFE", "rpa": 1, "microrregiao": 1, "bairro_nome": "Recife" }} 
-,
-{  "id": 69, "properties": { "bairro_codigo": 256, "bairro_nome_ca": "BRASILIA TEIMOSA", "rpa": 6, "microrregiao": 1, "bairro_nome": "Brasília Teimosa" }} 
-,
-{  "id": 70, "properties": { "bairro_codigo": 558, "bairro_nome_ca": "VASCO DA GAMA", "rpa": 3, "microrregiao": 2, "bairro_nome": "Vasco da Gama" }} 
-,
-{  "id": 71, "properties": { "bairro_codigo": 809, "bairro_nome_ca": "BONGI", "rpa": 5, "microrregiao": 3, "bairro_nome": "Bongi" }} 
-,
-{  "id": 72, "properties": { "bairro_codigo": 205, "bairro_nome_ca": "BOA VIAGEM", "rpa": 6, "microrregiao": 1, "bairro_nome": "Boa Viagem" }} 
-,
-{  "id": 73, "properties": { "bairro_codigo": 787, "bairro_nome_ca": "MUSTARDINHA", "rpa": 5, "microrregiao": 3, "bairro_nome": "Mustardinha" }} 
-,
-{  "id": 74, "properties": { "bairro_codigo": 35, "bairro_nome_ca": "SAO JOSE", "rpa": 1, "microrregiao": 2, "bairro_nome": "São José" }} 
-,
-{  "id": 75, "properties": { "bairro_codigo": 523, "bairro_nome_ca": "ALTO JOSE DO PINHO", "rpa": 3, "microrregiao": 2, "bairro_nome": "Alto José do Pinho" }} 
-,
-{  "id": 76, "properties": { "bairro_codigo": 949, "bairro_nome_ca": "ALTO SANTA TEREZINHA", "rpa": 2, "microrregiao": 2, "bairro_nome": "Alto Santa Terezinha" }} 
-,
-{  "id": 77, "properties": { "bairro_codigo": 582, "bairro_nome_ca": "MACAXEIRA", "rpa": 3, "microrregiao": 3, "bairro_nome": "Macaxeira" }} 
-,
-{  "id": 78, "properties": { "bairro_codigo": 574, "bairro_nome_ca": "BREJO DE BEBERIBE", "rpa": 3, "microrregiao": 3, "bairro_nome": "Brejo de Beberibe" }} 
-,
-{  "id": 79, "properties": { "bairro_codigo": 566, "bairro_nome_ca": "NOVA DESCOBERTA", "rpa": 3, "microrregiao": 3, "bairro_nome": "Nova Descoberta" }} 
-,
-{  "id": 80, "properties": { "bairro_codigo": 485, "bairro_nome_ca": "MONTEIRO", "rpa": 3, "microrregiao": 1, "bairro_nome": "Monteiro" }} 
-,
-{  "id": 81, "properties": { "bairro_codigo": 280, "bairro_nome_ca": "CAMPO GRANDE", "rpa": 2, "microrregiao": 1, "bairro_nome": "Campo Grande" }} 
-,
-{  "id": 82, "properties": { "bairro_codigo": 655, "bairro_nome_ca": "TORRE", "rpa": 4, "microrregiao": 1, "bairro_nome": "Torre" }} 
-,
-{  "id": 83, "properties": { "bairro_codigo": 647, "bairro_nome_ca": "MADALENA", "rpa": 4, "microrregiao": 1, "bairro_nome": "Madalena" }} 
-,
-{  "id": 84, "properties": { "bairro_codigo": 337, "bairro_nome_ca": "AGUA FRIA", "rpa": 2, "microrregiao": 2, "bairro_nome": "Água Fria" }} 
-,
-{  "id": 85, "properties": { "bairro_codigo": 60, "bairro_nome_ca": "COELHOS", "rpa": 1, "microrregiao": 3, "bairro_nome": "Coelhos" }} 
-,
-{  "id": 86, "properties": { "bairro_codigo": 302, "bairro_nome_ca": "HIPODROMO", "rpa": 2, "microrregiao": 1, "bairro_nome": "Hipódromo" }} 
-,
-{  "id": 87, "properties": { "bairro_codigo": 167, "bairro_nome_ca": "GRACAS", "rpa": 3, "microrregiao": 1, "bairro_nome": "Graças" }} 
-,
-{  "id": 88, "properties": { "bairro_codigo": 264, "bairro_nome_ca": "IMBIRIBEIRA", "rpa": 6, "microrregiao": 1, "bairro_nome": "Imbiribeira" }} 
-,
-{  "id": 89, "properties": { "bairro_codigo": 825, "bairro_nome_ca": "JIQUIA", "rpa": 5, "microrregiao": 2, "bairro_nome": "Jiquiá" }} 
-,
-{  "id": 90, "properties": { "bairro_codigo": 779, "bairro_nome_ca": "AFOGADOS", "rpa": 5, "microrregiao": 3, "bairro_nome": "Afogados" }} 
-,
-{  "id": 91, "properties": { "bairro_codigo": 507, "bairro_nome_ca": "APIPUCOS", "rpa": 3, "microrregiao": 1, "bairro_nome": "Apipucos" }} 
-,
-{  "id": 92, "properties": { "bairro_codigo": 418, "bairro_nome_ca": "GUABIRABA", "rpa": 3, "microrregiao": 3, "bairro_nome": "Guabiraba" }} 
-,
-{  "id": 93, "properties": { "bairro_codigo": 620, "bairro_nome_ca": "CORREGO DO JENIPAPO", "rpa": 3, "microrregiao": 3, "bairro_nome": "Córrego do Jenipapo" }} 
-
+[
+	{  "id": 0, "properties": { "bairro_codigo": 728, "bairro_nome_ca": "CIDADE UNIVERSITARIA", "rpa": 4, "microrregiao": 3, "bairro_nome": "Cidade Universitária" }} 
+	,
+	{  "id": 1, "properties": { "bairro_codigo": 116, "bairro_nome_ca": "SOLEDADE", "rpa": 1, "microrregiao": 2, "bairro_nome": "Soledade" }} 
+	,
+	{  "id": 2, "properties": { "bairro_codigo": 710, "bairro_nome_ca": "ENGENHO DO MEIO", "rpa": 4, "microrregiao": 2, "bairro_nome": "Engenho do Meio" }} 
+	,
+	{  "id": 3, "properties": { "bairro_codigo": 841, "bairro_nome_ca": "CACOTE", "rpa": 5, "microrregiao": 2, "bairro_nome": "Caçote" }} 
+	,
+	{  "id": 4, "properties": { "bairro_codigo": 884, "bairro_nome_ca": "COHAB", "rpa": 6, "microrregiao": 3, "bairro_nome": "Cohab" }} 
+	,
+	{  "id": 5, "properties": { "bairro_codigo": 736, "bairro_nome_ca": "VARZEA", "rpa": 4, "microrregiao": 3, "bairro_nome": "Várzea" }} 
+	,
+	{  "id": 6, "properties": { "bairro_codigo": 701, "bairro_nome_ca": "TORROES", "rpa": 4, "microrregiao": 2, "bairro_nome": "Torrões" }} 
+	,
+	{  "id": 7, "properties": { "bairro_codigo": 698, "bairro_nome_ca": "IPUTINGA", "rpa": 4, "microrregiao": 1, "bairro_nome": "Iputinga" }} 
+	,
+	{  "id": 8, "properties": { "bairro_codigo": 752, "bairro_nome_ca": "CURADO", "rpa": 5, "microrregiao": 1, "bairro_nome": "Curado" }} 
+	,
+	{  "id": 9, "properties": { "bairro_codigo": 817, "bairro_nome_ca": "SAN MARTIN", "rpa": 5, "microrregiao": 3, "bairro_nome": "San Martin" }} 
+	,
+	{  "id": 10, "properties": { "bairro_codigo": 213, "bairro_nome_ca": "IPSEP", "rpa": 6, "microrregiao": 1, "bairro_nome": "Ipsep" }} 
+	,
+	{  "id": 11, "properties": { "bairro_codigo": 400, "bairro_nome_ca": "PASSARINHO", "rpa": 3, "microrregiao": 3, "bairro_nome": "Passarinho" }} 
+	,
+	{  "id": 12, "properties": { "bairro_codigo": 590, "bairro_nome_ca": "DOIS IRMAOS", "rpa": 3, "microrregiao": 1, "bairro_nome": "Dois Irmãos" }} 
+	,
+	{  "id": 13, "properties": { "bairro_codigo": 159, "bairro_nome_ca": "JAQUEIRA", "rpa": 3, "microrregiao": 1, "bairro_nome": "Jaqueira" }} 
+	,
+	{  "id": 14, "properties": { "bairro_codigo": 868, "bairro_nome_ca": "JARDIM SAO PAULO", "rpa": 5, "microrregiao": 1, "bairro_nome": "Jardim São Paulo" }} 
+	,
+	{  "id": 15, "properties": { "bairro_codigo": 850, "bairro_nome_ca": "AREIAS", "rpa": 5, "microrregiao": 2, "bairro_nome": "Areias" }} 
+	,
+	{  "id": 16, "properties": { "bairro_codigo": 906, "bairro_nome_ca": "SANCHO", "rpa": 5, "microrregiao": 1, "bairro_nome": "Sancho" }} 
+	,
+	{  "id": 17, "properties": { "bairro_codigo": 876, "bairro_nome_ca": "BARRO", "rpa": 5, "microrregiao": 1, "bairro_nome": "Barro" }} 
+	,
+	{  "id": 18, "properties": { "bairro_codigo": 833, "bairro_nome_ca": "ESTANCIA", "rpa": 5, "microrregiao": 1, "bairro_nome": "Estância" }} 
+	,
+	{  "id": 19, "properties": { "bairro_codigo": 450, "bairro_nome_ca": "SANTANA", "rpa": 3, "microrregiao": 1, "bairro_nome": "Santana" }} 
+	,
+	{  "id": 20, "properties": { "bairro_codigo": 892, "bairro_nome_ca": "TEJIPIO", "rpa": 5, "microrregiao": 1, "bairro_nome": "Tejipió" }} 
+	,
+	{  "id": 21, "properties": { "bairro_codigo": 671, "bairro_nome_ca": "ZUMBI", "rpa": 4, "microrregiao": 1, "bairro_nome": "Zumbi" }} 
+	,
+	{  "id": 22, "properties": { "bairro_codigo": 680, "bairro_nome_ca": "CORDEIRO", "rpa": 4, "microrregiao": 1, "bairro_nome": "Cordeiro" }} 
+	,
+	{  "id": 23, "properties": { "bairro_codigo": 922, "bairro_nome_ca": "COQUEIRAL", "rpa": 5, "microrregiao": 1, "bairro_nome": "Coqueiral" }} 
+	,
+	{  "id": 24, "properties": { "bairro_codigo": 914, "bairro_nome_ca": "TOTO", "rpa": 5, "microrregiao": 1, "bairro_nome": "Totó" }} 
+	,
+	{  "id": 25, "properties": { "bairro_codigo": 744, "bairro_nome_ca": "CAXANGA", "rpa": 4, "microrregiao": 3, "bairro_nome": "Caxangá" }} 
+	,
+	{  "id": 26, "properties": { "bairro_codigo": 604, "bairro_nome_ca": "SITIO DOS PINTOS", "rpa": 3, "microrregiao": 1, "bairro_nome": "Sítio dos Pintos" }} 
+	,
+	{  "id": 27, "properties": { "bairro_codigo": 639, "bairro_nome_ca": "PAU FERRO", "rpa": 3, "microrregiao": 3, "bairro_nome": "Pau Ferro" }} 
+	,
+	{  "id": 28, "properties": { "bairro_codigo": 140, "bairro_nome_ca": "DERBY", "rpa": 3, "microrregiao": 1, "bairro_nome": "Derby" }} 
+	,
+	{  "id": 29, "properties": { "bairro_codigo": 345, "bairro_nome_ca": "FUNDAO", "rpa": 2, "microrregiao": 2, "bairro_nome": "Fundão" }} 
+	,
+	{  "id": 30, "properties": { "bairro_codigo": 183, "bairro_nome_ca": "ROSARINHO", "rpa": 2, "microrregiao": 1, "bairro_nome": "Rosarinho" }} 
+	,
+	{  "id": 31, "properties": { "bairro_codigo": 310, "bairro_nome_ca": "CAMPINA DO BARRETO", "rpa": 2, "microrregiao": 1, "bairro_nome": "Campina do Barreto" }} 
+	,
+	{  "id": 32, "properties": { "bairro_codigo": 361, "bairro_nome_ca": "PORTO DA MADEIRA", "rpa": 2, "microrregiao": 2, "bairro_nome": "Porto da Madeira" }} 
+	,
+	{  "id": 33, "properties": { "bairro_codigo": 353, "bairro_nome_ca": "CAJUEIRO", "rpa": 2, "microrregiao": 2, "bairro_nome": "Cajueiro" }} 
+	,
+	{  "id": 34, "properties": { "bairro_codigo": 370, "bairro_nome_ca": "BEBERIBE", "rpa": 2, "microrregiao": 3, "bairro_nome": "Beberibe" }} 
+	,
+	{  "id": 35, "properties": { "bairro_codigo": 426, "bairro_nome_ca": "BOMBA DO HEMETERIO", "rpa": 2, "microrregiao": 2, "bairro_nome": "Bomba do Hemetério" }} 
+	,
+	{  "id": 36, "properties": { "bairro_codigo": 515, "bairro_nome_ca": "MANGABEIRA", "rpa": 3, "microrregiao": 2, "bairro_nome": "Mangabeira" }} 
+	,
+	{  "id": 37, "properties": { "bairro_codigo": 396, "bairro_nome_ca": "DOIS UNIDOS", "rpa": 2, "microrregiao": 3, "bairro_nome": "Dois Unidos" }} 
+	,
+	{  "id": 38, "properties": { "bairro_codigo": 388, "bairro_nome_ca": "LINHA DO TIRO", "rpa": 2, "microrregiao": 3, "bairro_nome": "Linha do Tiro" }} 
+	,
+	{  "id": 39, "properties": { "bairro_codigo": 272, "bairro_nome_ca": "TORREAO", "rpa": 2, "microrregiao": 1, "bairro_nome": "Torreão" }} 
+	,
+	{  "id": 40, "properties": { "bairro_codigo": 191, "bairro_nome_ca": "TAMARINEIRA", "rpa": 3, "microrregiao": 1, "bairro_nome": "Tamarineira" }} 
+	,
+	{  "id": 41, "properties": { "bairro_codigo": 795, "bairro_nome_ca": "MANGUEIRA", "rpa": 5, "microrregiao": 3, "bairro_nome": "Mangueira" }} 
+	,
+	{  "id": 42, "properties": { "bairro_codigo": 78, "bairro_nome_ca": "ILHA DO LEITE", "rpa": 1, "microrregiao": 2, "bairro_nome": "Ilha do Leite" }} 
+	,
+	{  "id": 43, "properties": { "bairro_codigo": 221, "bairro_nome_ca": "JORDAO", "rpa": 6, "microrregiao": 2, "bairro_nome": "Jordão" }} 
+	,
+	{  "id": 44, "properties": { "bairro_codigo": 108, "bairro_nome_ca": "SANTO AMARO", "rpa": 1, "microrregiao": 1, "bairro_nome": "Santo Amaro" }} 
+	,
+	{  "id": 45, "properties": { "bairro_codigo": 477, "bairro_nome_ca": "POCO", "rpa": 3, "microrregiao": 1, "bairro_nome": "Poço" }} 
+	,
+	{  "id": 46, "properties": { "bairro_codigo": 442, "bairro_nome_ca": "CASA FORTE", "rpa": 3, "microrregiao": 1, "bairro_nome": "Casa Forte" }} 
+	,
+	{  "id": 47, "properties": { "bairro_codigo": 469, "bairro_nome_ca": "PARNAMIRIM", "rpa": 3, "microrregiao": 1, "bairro_nome": "Parnamirim" }} 
+	,
+	{  "id": 48, "properties": { "bairro_codigo": 299, "bairro_nome_ca": "PEIXINHOS", "rpa": 2, "microrregiao": 1, "bairro_nome": "Peixinhos" }} 
+	,
+	{  "id": 49, "properties": { "bairro_codigo": 329, "bairro_nome_ca": "ARRUDA", "rpa": 2, "microrregiao": 1, "bairro_nome": "Arruda" }} 
+	,
+	{  "id": 50, "properties": { "bairro_codigo": 86, "bairro_nome_ca": "BOA VISTA", "rpa": 1, "microrregiao": 2, "bairro_nome": "Boa Vista" }} 
+	,
+	{  "id": 51, "properties": { "bairro_codigo": 663, "bairro_nome_ca": "PRADO", "rpa": 4, "microrregiao": 1, "bairro_nome": "Prado" }} 
+	,
+	{  "id": 52, "properties": { "bairro_codigo": 51, "bairro_nome_ca": "CABANGA", "rpa": 1, "microrregiao": 2, "bairro_nome": "Cabanga" }} 
+	,
+	{  "id": 53, "properties": { "bairro_codigo": 248, "bairro_nome_ca": "PINA", "rpa": 6, "microrregiao": 1, "bairro_nome": "Pina" }} 
+	,
+	{  "id": 54, "properties": { "bairro_codigo": 612, "bairro_nome_ca": "BREJO DA GUABIRABA", "rpa": 3, "microrregiao": 3, "bairro_nome": "Brejo da Guabiraba" }} 
+	,
+	{  "id": 55, "properties": { "bairro_codigo": 760, "bairro_nome_ca": "ILHA DO RETIRO", "rpa": 4, "microrregiao": 1, "bairro_nome": "Ilha do Retiro" }} 
+	,
+	{  "id": 56, "properties": { "bairro_codigo": 94, "bairro_nome_ca": "PAISSANDU", "rpa": 1, "microrregiao": 2, "bairro_nome": "Paissandu" }} 
+	,
+	{  "id": 57, "properties": { "bairro_codigo": 43, "bairro_nome_ca": "ILHA JOANA BEZERRA", "rpa": 1, "microrregiao": 3, "bairro_nome": "Ilha Joana Bezerra" }} 
+	,
+	{  "id": 58, "properties": { "bairro_codigo": 230, "bairro_nome_ca": "IBURA", "rpa": 6, "microrregiao": 2, "bairro_nome": "Ibura" }} 
+	,
+	{  "id": 59, "properties": { "bairro_codigo": 540, "bairro_nome_ca": "ALTO JOSE BONIFACIO", "rpa": 3, "microrregiao": 2, "bairro_nome": "Alto José Bonifácio" }} 
+	,
+	{  "id": 60, "properties": { "bairro_codigo": 493, "bairro_nome_ca": "ALTO DO MANDU", "rpa": 3, "microrregiao": 1, "bairro_nome": "Alto do Mandu" }} 
+	,
+	{  "id": 61, "properties": { "bairro_codigo": 531, "bairro_nome_ca": "MORRO DA CONCEICAO", "rpa": 3, "microrregiao": 2, "bairro_nome": "Morro da Conceição" }} 
+	,
+	{  "id": 62, "properties": { "bairro_codigo": 434, "bairro_nome_ca": "CASA AMARELA", "rpa": 3, "microrregiao": 1, "bairro_nome": "Casa Amarela" }} 
+	,
+	{  "id": 63, "properties": { "bairro_codigo": 930, "bairro_nome_ca": "PONTO DE PARADA", "rpa": 2, "microrregiao": 1, "bairro_nome": "Ponto de Parada" }} 
+	,
+	{  "id": 64, "properties": { "bairro_codigo": 175, "bairro_nome_ca": "ENCRUZILHADA", "rpa": 2, "microrregiao": 1, "bairro_nome": "Encruzilhada" }} 
+	,
+	{  "id": 65, "properties": { "bairro_codigo": 124, "bairro_nome_ca": "ESPINHEIRO", "rpa": 3, "microrregiao": 1, "bairro_nome": "Espinheiro" }} 
+	,
+	{  "id": 66, "properties": { "bairro_codigo": 132, "bairro_nome_ca": "AFLITOS", "rpa": 3, "microrregiao": 1, "bairro_nome": "Aflitos" }} 
+	,
+	{  "id": 67, "properties": { "bairro_codigo": 27, "bairro_nome_ca": "SANTO ANTONIO", "rpa": 1, "microrregiao": 2, "bairro_nome": "Santo Antônio" }} 
+	,
+	{  "id": 68, "properties": { "bairro_codigo": 19, "bairro_nome_ca": "RECIFE", "rpa": 1, "microrregiao": 1, "bairro_nome": "Recife" }} 
+	,
+	{  "id": 69, "properties": { "bairro_codigo": 256, "bairro_nome_ca": "BRASILIA TEIMOSA", "rpa": 6, "microrregiao": 1, "bairro_nome": "Brasília Teimosa" }} 
+	,
+	{  "id": 70, "properties": { "bairro_codigo": 558, "bairro_nome_ca": "VASCO DA GAMA", "rpa": 3, "microrregiao": 2, "bairro_nome": "Vasco da Gama" }} 
+	,
+	{  "id": 71, "properties": { "bairro_codigo": 809, "bairro_nome_ca": "BONGI", "rpa": 5, "microrregiao": 3, "bairro_nome": "Bongi" }} 
+	,
+	{  "id": 72, "properties": { "bairro_codigo": 205, "bairro_nome_ca": "BOA VIAGEM", "rpa": 6, "microrregiao": 1, "bairro_nome": "Boa Viagem" }} 
+	,
+	{  "id": 73, "properties": { "bairro_codigo": 787, "bairro_nome_ca": "MUSTARDINHA", "rpa": 5, "microrregiao": 3, "bairro_nome": "Mustardinha" }} 
+	,
+	{  "id": 74, "properties": { "bairro_codigo": 35, "bairro_nome_ca": "SAO JOSE", "rpa": 1, "microrregiao": 2, "bairro_nome": "São José" }} 
+	,
+	{  "id": 75, "properties": { "bairro_codigo": 523, "bairro_nome_ca": "ALTO JOSE DO PINHO", "rpa": 3, "microrregiao": 2, "bairro_nome": "Alto José do Pinho" }} 
+	,
+	{  "id": 76, "properties": { "bairro_codigo": 949, "bairro_nome_ca": "ALTO SANTA TEREZINHA", "rpa": 2, "microrregiao": 2, "bairro_nome": "Alto Santa Terezinha" }} 
+	,
+	{  "id": 77, "properties": { "bairro_codigo": 582, "bairro_nome_ca": "MACAXEIRA", "rpa": 3, "microrregiao": 3, "bairro_nome": "Macaxeira" }} 
+	,
+	{  "id": 78, "properties": { "bairro_codigo": 574, "bairro_nome_ca": "BREJO DE BEBERIBE", "rpa": 3, "microrregiao": 3, "bairro_nome": "Brejo de Beberibe" }} 
+	,
+	{  "id": 79, "properties": { "bairro_codigo": 566, "bairro_nome_ca": "NOVA DESCOBERTA", "rpa": 3, "microrregiao": 3, "bairro_nome": "Nova Descoberta" }} 
+	,
+	{  "id": 80, "properties": { "bairro_codigo": 485, "bairro_nome_ca": "MONTEIRO", "rpa": 3, "microrregiao": 1, "bairro_nome": "Monteiro" }} 
+	,
+	{  "id": 81, "properties": { "bairro_codigo": 280, "bairro_nome_ca": "CAMPO GRANDE", "rpa": 2, "microrregiao": 1, "bairro_nome": "Campo Grande" }} 
+	,
+	{  "id": 82, "properties": { "bairro_codigo": 655, "bairro_nome_ca": "TORRE", "rpa": 4, "microrregiao": 1, "bairro_nome": "Torre" }} 
+	,
+	{  "id": 83, "properties": { "bairro_codigo": 647, "bairro_nome_ca": "MADALENA", "rpa": 4, "microrregiao": 1, "bairro_nome": "Madalena" }} 
+	,
+	{  "id": 84, "properties": { "bairro_codigo": 337, "bairro_nome_ca": "AGUA FRIA", "rpa": 2, "microrregiao": 2, "bairro_nome": "Água Fria" }} 
+	,
+	{  "id": 85, "properties": { "bairro_codigo": 60, "bairro_nome_ca": "COELHOS", "rpa": 1, "microrregiao": 3, "bairro_nome": "Coelhos" }} 
+	,
+	{  "id": 86, "properties": { "bairro_codigo": 302, "bairro_nome_ca": "HIPODROMO", "rpa": 2, "microrregiao": 1, "bairro_nome": "Hipódromo" }} 
+	,
+	{  "id": 87, "properties": { "bairro_codigo": 167, "bairro_nome_ca": "GRACAS", "rpa": 3, "microrregiao": 1, "bairro_nome": "Graças" }} 
+	,
+	{  "id": 88, "properties": { "bairro_codigo": 264, "bairro_nome_ca": "IMBIRIBEIRA", "rpa": 6, "microrregiao": 1, "bairro_nome": "Imbiribeira" }} 
+	,
+	{  "id": 89, "properties": { "bairro_codigo": 825, "bairro_nome_ca": "JIQUIA", "rpa": 5, "microrregiao": 2, "bairro_nome": "Jiquiá" }} 
+	,
+	{  "id": 90, "properties": { "bairro_codigo": 779, "bairro_nome_ca": "AFOGADOS", "rpa": 5, "microrregiao": 3, "bairro_nome": "Afogados" }} 
+	,
+	{  "id": 91, "properties": { "bairro_codigo": 507, "bairro_nome_ca": "APIPUCOS", "rpa": 3, "microrregiao": 1, "bairro_nome": "Apipucos" }} 
+	,
+	{  "id": 92, "properties": { "bairro_codigo": 418, "bairro_nome_ca": "GUABIRABA", "rpa": 3, "microrregiao": 3, "bairro_nome": "Guabiraba" }} 
+	,
+	{  "id": 93, "properties": { "bairro_codigo": 620, "bairro_nome_ca": "CORREGO DO JENIPAPO", "rpa": 3, "microrregiao": 3, "bairro_nome": "Córrego do Jenipapo" }} 
 ]
-}

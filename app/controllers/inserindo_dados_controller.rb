@@ -5,7 +5,7 @@ class InserindoDadosController < ApplicationController
 		# recebendo Json's 
 		arqJsonGym = File.read("app/assets/jsons/academia_da_cidade.json")
 		arqJsonAcidente = File.read("app/assets/jsons/acidentes_transito.json")
-		arqJsonbairro = File.read("app/assets/jsons/bairros.json")
+		arqJsonBairro = File.read("app/assets/jsons/bairros.json")
 		arqJsonFeira = File.read("app/assets/jsons/feira_livre.json")
 		arqJsonMuseu = File.read("app/assets/jsons/museus.json")
 		arqJsonParque = File.read("app/assets/jsons/parques_pracas.json")
@@ -34,6 +34,13 @@ class InserindoDadosController < ApplicationController
       		aci.data = x["data de abertura"]
       		aci.save
 		end
+
+            aux = JSON.parse(arqJsonBairro)
+            for x in aux do
+                  bai = Bairro.new
+                  bai.nome = x["properties"]["bairro_nome_ca"]
+                  bai.save
+            end
 
 		aux = JSON.parse(arqJsonFeira)
 		for x in aux do
