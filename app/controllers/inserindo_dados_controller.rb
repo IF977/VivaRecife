@@ -38,7 +38,7 @@ class InserindoDadosController < ApplicationController
             aux = JSON.parse(arqJsonBairro)
             for x in aux do
                   bai = Bairro.new
-                  bai.nome = x["properties"]["bairro_nome_ca"]
+                  bai.nome = x["properties"]["bairro_nome"]
                   bai.save
             end
 
