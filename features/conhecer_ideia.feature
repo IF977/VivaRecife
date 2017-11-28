@@ -6,4 +6,4 @@ Feature: conhecer_ideia
     Scenario: Acessing Sobre page
         Given I am on the index link
         When I click on the sobre/index link
-        Then I should see the Sobre and Equipe titles
+        Then I should see the text Sobre

@@ -9,7 +9,7 @@ Feature: contato
         And put <nome> on the name input
         And put <email> on the email input
         And put <message> on the message textarea
-        And click on the enviar button
+        And click on the Enviar button
         Then I should see the text Mensagem enviada com sucesso.
     
     Scenario: Creating a cliente without nome
@@ -18,7 +18,7 @@ Feature: contato
         And put <nome> on the name input
         And put <email> on the email input
         And put <message> on the message textarea
-        And click on the enviar button
+        And click on the Enviar button
         Then I should see the text Mensagem enviada com sucesso.
         
     Scenario: Creating a cliente without email
@@ -26,7 +26,7 @@ Feature: contato
         When I click on the contato/index link
         And put <email> on the email input
         And put <message> on the message textarea
-        And click on the enviar button
+        And click on the Enviar button
         Then I should see the text Insira seu nome.
         
     Scenario: Creating a cliente without message
@@ -34,7 +34,7 @@ Feature: contato
         When I click on the contato/index link
         And put <nome> on the name input
         And put <message> on the message textarea
-        And click on the enviar button
+        And click on the Enviar button
         Then I should see the text Insira seu email.
         
     Scenario: Creating a cliente without message
@@ -42,6 +42,6 @@ Feature: contato
         When I click on the contato/index link
         And put <nome> on the name input
         And put <email> on the email input
-        And click on the enviar button
+        And click on the Enviar button
         Then I should see the text Insira sua mensagem.
         

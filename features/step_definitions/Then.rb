@@ -6,3 +6,7 @@ end
 Then(/^I should see the text ([^"]*)$/) do |text|
     expect(page).to have_content(text)
 end
+
+Then(/^I should see a (.+) link and click on it$/) do |link|
+	click_link('Aflitos')
+end
